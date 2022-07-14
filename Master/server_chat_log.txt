@@ -1,28 +1,28 @@
-[00:00:57]: [Join Announcement] Guinyの时光
-[00:02:43]: [Join Announcement] 有点皮的卡丘
-[00:19:21]: [Skin Announcement] 有点皮的卡丘 feet_wendy_creepy
-[00:23:28]: [Skin Announcement] 有点皮的卡丘 body_suspenders_pink_pearl
-[00:44:04]: [Skin Announcement] Guinyの时光 body_sweatervest_red_firehound
-[01:08:27]: [Death Announcement] 有点皮的卡丘 死于： 猪人。他变成了可怕的鬼魂！
-[01:09:33]: [Resurrect Announcement] 有点皮的卡丘 复活自： Guinyの时光.
-[01:22:47]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: 我回来了
-[01:23:29]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: I ready
-[01:25:19]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: catty
-[01:36:31]: [Skin Announcement] 有点皮的卡丘 willow_pirate
-[01:43:11]: [Death Announcement] 有点皮的卡丘 死于： 熊獾。他变成了可怕的鬼魂！
-[01:43:20]: [Vote Announcement] rollback passed
-[01:45:10]: [Vote Announcement] rollback passed
-[01:49:35]: [Death Announcement] Guinyの时光 死于： 熊獾。他变成了可怕的鬼魂！
-[01:50:07]: [Resurrect Announcement] Guinyの时光 复活自： 有点皮的卡丘.
-[01:52:21]: [Death Announcement] Guinyの时光 死于： 熊獾。他变成了可怕的鬼魂！
-[01:52:26]: [Vote Announcement] rollback passed
-[02:11:35]: [Vote Announcement] rollback passed
-[02:25:51]: [Skin Announcement] Guinyの时光 legs_checkered_pleats_orange_lumberjack
-[02:29:58]: [Death Announcement] Guinyの时光 死于： 独眼巨鹿。他变成了可怕的鬼魂！
-[02:30:23]: [Vote Announcement] rollback passed
-[02:33:51]: [Death Announcement] 有点皮的卡丘 死于： 恐怖尖喙。他变成了可怕的鬼魂！
-[02:33:55]: [Resurrect Announcement] 有点皮的卡丘 复活自： 肉块雕像.
-[02:35:13]: [Skin Announcement] 有点皮的卡丘 feet_captoe_shoe_white_ivory
-[03:08:30]: [Skin Announcement] Guinyの时光 legs_tweed_knickerbocker_tan_grass
-[03:40:59]: [Leave Announcement] 有点皮的卡丘
-[03:49:35]: [Leave Announcement] Guinyの时光
+[00:00:56]: [Join Announcement] Guinyの时光
+[00:07:29]: [Join Announcement] 有点皮的卡丘
+[00:21:12]: [Whisper] (KU_0j0lUYAn) 有点皮的卡丘: uhjjj
+[00:36:29]: [Skin Announcement] Guinyの时光 legs_winona_magma
+[00:42:57]: [Skin Announcement] 有点皮的卡丘 body_wilson_shadow
+[00:48:15]: [Leave Announcement] 有点皮的卡丘
+[00:49:31]: [Join Announcement] 有点皮的卡丘
+[01:35:26]: [Death Announcement] 有点皮的卡丘 死于： 高脚鸟。他变成了可怕的鬼魂！
+[01:35:31]: [Resurrect Announcement] 有点皮的卡丘 复活自： 绚丽之门.
+[01:50:37]: [Skin Announcement] 有点皮的卡丘 webber_beard_nature
+[01:56:11]: [Skin Announcement] Guinyの时光 legs_wanda_yule
+[02:40:11]: [Skin Announcement] 有点皮的卡丘 legs_willow_magma
+[03:06:08]: [Skin Announcement] Guinyの时光 legs_shorts_blue_cerulean
+[03:22:58]: [Death Announcement] 有点皮的卡丘 死于： 熊獾。他变成了可怕的鬼魂！
+[03:23:04]: [Resurrect Announcement] 有点皮的卡丘 复活自： 肉块雕像.
+[03:25:13]: [Death Announcement] 有点皮的卡丘 死于： 黑暗。他变成了可怕的鬼魂！
+[03:27:04]: [Resurrect Announcement] 有点皮的卡丘 复活自： 试金石.
+[03:28:21]: [Death Announcement] 有点皮的卡丘 死于： 中暑。他变成了可怕的鬼魂！
+[03:31:10]: [Death Announcement] Guinyの时光 死于： 火。他变成了可怕的鬼魂！
+[03:31:18]: [Vote Announcement] rollback passed
+[03:32:53]: [Resurrect Announcement] 有点皮的卡丘 复活自： 试金石.
+[03:42:24]: [Death Announcement] Guinyの时光 死于： 蓝宝石。他变成了可怕的鬼魂！
+[03:43:17]: [Vote Announcement] rollback passed
+[03:46:46]: [Leave Announcement] 有点皮的卡丘
+[03:48:42]: [Join Announcement] 有点皮的卡丘
+[04:14:53]: [Skin Announcement] 有点皮的卡丘 webber_beard_survivor
+[04:21:01]: [Leave Announcement] Guinyの时光
+[04:21:03]: [Leave Announcement] 有点皮的卡丘
