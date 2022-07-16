@@ -1,0 +1,9 @@
+[00:01:01]: [Join Announcement] Guinyの时光
+[00:01:59]: [Join Announcement] 有点皮的卡丘
+[00:35:49]: [Leave Announcement] 有点皮的卡丘
+[00:36:33]: [Join Announcement] 有点皮的卡丘
+[00:38:03]: [Leave Announcement] 有点皮的卡丘
+[00:47:33]: [Join Announcement] 有点皮的卡丘
+[01:04:07]: [Skin Announcement] Guinyの时光 body_overalls_brown_fawn
+[01:25:20]: [Leave Announcement] 有点皮的卡丘
+[01:32:34]: [Leave Announcement] Guinyの时光
