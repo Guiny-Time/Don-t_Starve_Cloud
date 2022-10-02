@@ -1,0 +1,17 @@
+[00:01:36]: [Join Announcement] Guinyの时光
+[00:03:56]: [Join Announcement] 有点皮的卡丘
+[00:38:07]: [Skin Announcement] Guinyの时光 abigail_survivor
+[00:51:51]: [Skin Announcement] 有点皮的卡丘 feet_wendy_magma
+[00:54:59]: [Leave Announcement] 有点皮的卡丘
+[01:20:12]: [Join Announcement] 有点皮的卡丘
+[01:45:34]: [Skin Announcement] Guinyの时光 legs_wanda_yule
+[02:03:46]: [Skin Announcement] 有点皮的卡丘 body_willow_haunteddoll
+[02:25:33]: [Death Announcement] 有点皮的卡丘 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[02:25:39]: [Resurrect Announcement] 有点皮的卡丘 复活自： 重生护符.
+[03:34:10]: [Skin Announcement] Guinyの时光 legs_wilson_magma
+[03:52:35]: [Skin Announcement] 有点皮的卡丘 body_buttons_blue_sapphire
+[04:15:59]: [Vote Announcement] rollback passed
+[04:25:28]: [Death Announcement] 有点皮的卡丘 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[04:25:35]: [Resurrect Announcement] 有点皮的卡丘 复活自： 重生护符.
+[04:32:53]: [Leave Announcement] Guinyの时光
+[04:32:54]: [Leave Announcement] 有点皮的卡丘
