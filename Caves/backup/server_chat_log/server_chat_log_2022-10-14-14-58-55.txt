@@ -1,0 +1,30 @@
+[00:00:55]: [Join Announcement] Guinyの时光
+[00:02:22]: [Join Announcement] 有点皮的卡丘
+[00:51:14]: [Death Announcement] Guinyの时光 死于： 麋鹿鹅。他变成了可怕的鬼魂！
+[00:52:39]: [Resurrect Announcement] Guinyの时光 复活自： 重生护符.
+[00:56:10]: [Skin Announcement] 有点皮的卡丘 legs_woodie_magma
+[00:58:56]: [Skin Announcement] Guinyの时光 legs_pinstripe_pants_navy_crow
+[01:57:01]: [Skin Announcement] Guinyの时光 legs_skirt_pleated_brown_walnut
+[02:05:55]: [Skin Announcement] 有点皮的卡丘 legs_wathgrithr_valkyrie
+[02:12:42]: [Leave Announcement] 有点皮的卡丘
+[02:13:54]: [Join Announcement] 有点皮的卡丘
+[02:25:33]: [Death Announcement] 有点皮的卡丘 死于： 损坏的发条主教。他变成了可怕的鬼魂！
+[02:25:43]: [Vote Announcement] rollback passed
+[02:38:50]: [Death Announcement] 有点皮的卡丘 死于： 穴居猴。他变成了可怕的鬼魂！
+[02:39:00]: [Vote Announcement] rollback passed
+[02:41:26]: [Say] (KU_h4BrFL4H) Guinyの时光: Test
+[02:44:59]: [Death Announcement] 有点皮的卡丘 死于： 穴居猴。他变成了可怕的鬼魂！
+[02:45:06]: [Vote Announcement] rollback passed
+[02:45:11]: [Say] (KU_h4BrFL4H) Guinyの时光: sb
+[02:47:08]: [Death Announcement] 有点皮的卡丘 死于： 穴居猴。他变成了可怕的鬼魂！
+[02:51:31]: [Resurrect Announcement] 有点皮的卡丘 复活自： 试金石.
+[02:54:27]: [Leave Announcement] 有点皮的卡丘
+[02:55:27]: [Join Announcement] 有点皮的卡丘
+[03:03:06]: [Death Announcement] Guinyの时光 死于： 洞穴蠕虫。他变成了可怕的鬼魂！
+[03:03:13]: [Vote Announcement] rollback passed
+[03:11:29]: [Death Announcement] 有点皮的卡丘 死于： 兔人。他变成了可怕的鬼魂！
+[03:11:39]: [Vote Announcement] rollback passed
+[03:14:18]: [Death Announcement] Guinyの时光 死于： 梦魇尖喙。他变成了可怕的鬼魂！
+[03:14:22]: [Vote Announcement] rollback passed
+[03:16:22]: [Leave Announcement] 有点皮的卡丘
+[03:16:38]: [Leave Announcement] Guinyの时光
