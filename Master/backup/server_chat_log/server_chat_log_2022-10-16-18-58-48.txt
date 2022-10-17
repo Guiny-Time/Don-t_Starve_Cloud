@@ -1,0 +1,13 @@
+[00:00:53]: [Join Announcement] Guinyの时光
+[00:02:19]: [Join Announcement] 有点皮的卡丘
+[00:07:08]: [Skin Announcement] Guinyの时光 legs_skirt_plaid_yellow_butter
+[00:50:01]: [Skin Announcement] Guinyの时光 legs_walter_detective
+[00:50:58]: [Skin Announcement] 有点皮的卡丘 hand_beltedgloves_red_firehound
+[01:17:39]: [Leave Announcement] 有点皮的卡丘
+[01:23:16]: [Join Announcement] 有点皮的卡丘
+[01:25:37]: [Leave Announcement] 有点皮的卡丘
+[01:26:08]: [Join Announcement] 有点皮的卡丘
+[01:55:21]: [Skin Announcement] Guinyの时光 feet_wickerbottom_victorian
+[02:11:56]: [Skin Announcement] 有点皮的卡丘 feet_wendy_magma
+[02:12:55]: [Leave Announcement] 有点皮的卡丘
+[02:15:29]: [Leave Announcement] Guinyの时光
