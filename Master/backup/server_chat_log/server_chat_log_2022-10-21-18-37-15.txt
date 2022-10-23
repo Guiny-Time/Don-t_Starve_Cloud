@@ -1,0 +1,12 @@
+[00:00:56]: [Join Announcement] Guinyの时光
+[00:02:23]: [Join Announcement] 有点皮的卡丘
+[00:37:31]: [Death Announcement] Guinyの时光 死于： 眼球草。他变成了可怕的鬼魂！
+[00:37:48]: [Vote Announcement] rollback passed
+[00:42:53]: [Death Announcement] 有点皮的卡丘 死于： 发条骑士。他变成了可怕的鬼魂！
+[00:43:20]: [Vote Announcement] rollback passed
+[00:45:23]: [Skin Announcement] Guinyの时光 legs_wanda_shadow
+[00:53:55]: [Death Announcement] Guinyの时光 死于： 桦栗树。他变成了可怕的鬼魂！
+[00:54:12]: [Resurrect Announcement] Guinyの时光 复活自： 重生护符.
+[01:00:27]: [Skin Announcement] 有点皮的卡丘 wormhole_claw
+[01:37:42]: [Leave Announcement] 有点皮的卡丘
+[02:05:37]: [Leave Announcement] Guinyの时光

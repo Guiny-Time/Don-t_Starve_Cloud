@@ -1,0 +1,20 @@
+[00:00:55]: [Join Announcement] Guinyの时光
+[00:01:48]: [Join Announcement] 有点皮的卡丘
+[00:10:53]: [Death Announcement] 有点皮的卡丘 死于： 兔人。他变成了可怕的鬼魂！
+[00:13:25]: [Skin Announcement] Guinyの时光 feet_walter_detective
+[00:16:46]: [Resurrect Announcement] 有点皮的卡丘 复活自： Guinyの时光.
+[00:44:15]: [Skin Announcement] 有点皮的卡丘 legs_checkered_pleats_grey_slate
+[01:28:58]: [Skin Announcement] Guinyの时光 legs_woodie_hippie
+[01:51:14]: [Skin Announcement] 有点皮的卡丘 hand_workgloves_grey_gainsboro
+[02:24:19]: [Leave Announcement] 有点皮的卡丘
+[02:25:54]: [Join Announcement] 有点皮的卡丘
+[02:31:27]: [Skin Announcement] Guinyの时光 hand_workgloves_tan_grass
+[03:01:03]: [Death Announcement] 有点皮的卡丘 死于： 月亮孢子。他变成了可怕的鬼魂！
+[03:01:07]: [Resurrect Announcement] 有点皮的卡丘 复活自： 重生护符.
+[03:09:05]: [Death Announcement] 有点皮的卡丘 死于： 中暑。他变成了可怕的鬼魂！
+[03:09:10]: [Resurrect Announcement] 有点皮的卡丘 复活自： 肉块雕像.
+[03:12:51]: [Skin Announcement] 有点皮的卡丘 hand_longgloves_black_scribble
+[03:13:45]: [Leave Announcement] 有点皮的卡丘
+[03:14:40]: [Death Announcement] Guinyの时光 死于： 穴居猴。他变成了可怕的鬼魂！
+[03:14:50]: [Vote Announcement] rollback passed
+[03:28:11]: [Leave Announcement] Guinyの时光

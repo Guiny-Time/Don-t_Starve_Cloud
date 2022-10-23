@@ -1,7 +1,31 @@
-[00:00:53]: [Join Announcement] Guinyの时光
-[00:04:17]: [Join Announcement] 有点皮的卡丘
-[00:21:27]: [Skin Announcement] Guinyの时光 feet_wilson_gladiator
-[00:53:09]: [Skin Announcement] 有点皮的卡丘 feet_swimflippers_black_scribble
-[00:53:12]: [Death Announcement] Guinyの时光 死于： 兔人。他变成了可怕的鬼魂！
-[00:53:43]: [Resurrect Announcement] Guinyの时光 复活自： 有点皮的卡丘.
-[01:11:00]: [Leave Announcement] Guinyの时光
+[00:01:49]: [Join Announcement] Guinyの时光
+[00:04:43]: [Join Announcement] 有点皮的卡丘
+[00:20:34]: [Skin Announcement] Guinyの时光 hambat_spiralcut
+[00:37:26]: [Death Announcement] Guinyの时光 死于： 石头。他变成了可怕的鬼魂！
+[00:37:47]: [Resurrect Announcement] Guinyの时光 复活自： 试金石.
+[01:05:25]: [Skin Announcement] 有点皮的卡丘 hand_wormwood_rose
+[01:31:28]: [Death Announcement] 有点皮的卡丘 死于： 龙蝇。他变成了可怕的鬼魂！
+[01:31:36]: [Vote Announcement] rollback passed
+[01:38:57]: [Death Announcement] 有点皮的卡丘 死于： 龙蝇。他变成了可怕的鬼魂！
+[01:39:05]: [Vote Announcement] rollback passed
+[01:39:07]: [Death Announcement] Guinyの时光 死于： 龙蝇。他变成了可怕的鬼魂！
+[02:10:26]: [Skin Announcement] 有点皮的卡丘 legs_wathgrithr_valkyrie
+[02:11:19]: [Skin Announcement] Guinyの时光 legs_warly_ice
+[02:48:53]: [Leave Announcement] 有点皮的卡丘
+[02:52:59]: [Join Announcement] 有点皮的卡丘
+[03:16:22]: [Skin Announcement] Guinyの时光 feet_wes_gladiator
+[03:39:18]: [Skin Announcement] 有点皮的卡丘 goldenpitchfork_invisible
+[03:55:11]: [Death Announcement] 有点皮的卡丘 死于： 喷射蜘蛛。他变成了可怕的鬼魂！
+[03:55:27]: [Vote Announcement] rollback passed
+[04:25:16]: [Skin Announcement] Guinyの时光 feet_workboot_brown_chocolate
+[04:49:33]: [Death Announcement] 有点皮的卡丘 死于： 杀人蜂。他变成了可怕的鬼魂！
+[04:55:54]: [Resurrect Announcement] 有点皮的卡丘 复活自： 肉块雕像.
+[04:59:02]: [Skin Announcement] 有点皮的卡丘 walterhat_formal
+[05:06:00]: [Leave Announcement] 有点皮的卡丘
+[05:17:30]: [Join Announcement] 有点皮的卡丘
+[05:18:43]: [Death Announcement] 有点皮的卡丘 死于： 熊獾。他变成了可怕的鬼魂！
+[05:42:39]: [Resurrect Announcement] 有点皮的卡丘 复活自： 重生护符.
+[05:53:11]: [Death Announcement] Guinyの时光 死于： 火药猴。他变成了可怕的鬼魂！
+[05:55:45]: [Resurrect Announcement] Guinyの时光 复活自： 有点皮的卡丘.
+[05:56:54]: [Leave Announcement] 有点皮的卡丘
+[05:57:12]: [Leave Announcement] Guinyの时光
