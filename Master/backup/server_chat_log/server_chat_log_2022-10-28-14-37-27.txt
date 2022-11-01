@@ -1,0 +1,26 @@
+[00:00:55]: [Join Announcement] Guinyの时光
+[00:01:58]: [Join Announcement] 有点皮的卡丘
+[00:14:06]: [Death Announcement] Guinyの时光 死于： 蓝色猎犬。他变成了可怕的鬼魂！
+[00:15:02]: [Vote Announcement] rollback passed
+[00:15:03]: [Death Announcement] 有点皮的卡丘 死于： 蓝色猎犬。他变成了可怕的鬼魂！
+[00:26:27]: [Death Announcement] Guinyの时光 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[00:26:39]: [Vote Announcement] rollback passed
+[00:29:39]: [Death Announcement] 有点皮的卡丘 死于： 独眼巨鹿。他变成了可怕的鬼魂！
+[00:29:47]: [Resurrect Announcement] 有点皮的卡丘 复活自： 肉块雕像.
+[00:30:04]: [Death Announcement] Guinyの时光 死于： 独眼巨鹿。他变成了可怕的鬼魂！
+[00:30:08]: [Vote Announcement] rollback passed
+[00:34:35]: [Death Announcement] 有点皮的卡丘 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[00:34:41]: [Resurrect Announcement] 有点皮的卡丘 复活自： 肉块雕像.
+[02:22:45]: [Death Announcement] Guinyの时光 死于： 黑暗。他变成了可怕的鬼魂！
+[02:23:59]: [Resurrect Announcement] Guinyの时光 复活自： 重生护符.
+[02:30:35]: [Death Announcement] 有点皮的卡丘 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[02:30:40]: [Resurrect Announcement] 有点皮的卡丘 复活自： 重生护符.
+[02:30:53]: [Death Announcement] 有点皮的卡丘 死于： 黑暗。他变成了可怕的鬼魂！
+[02:54:24]: [Resurrect Announcement] 有点皮的卡丘 复活自： 天体传送门.
+[02:54:45]: [Leave Announcement] 有点皮的卡丘
+[02:59:18]: [Death Announcement] Guinyの时光 死于： 海星。他变成了可怕的鬼魂！
+[02:59:54]: [Resurrect Announcement] Guinyの时光 复活自： 重生护符.
+[03:00:26]: [Death Announcement] Guinyの时光 死于： 海星。他变成了可怕的鬼魂！
+[03:01:03]: [Resurrect Announcement] Guinyの时光 复活自： 重生护符.
+[03:02:20]: [Vote Announcement] rollback passed
+[03:07:22]: [Leave Announcement] Guinyの时光
