@@ -1,0 +1,50 @@
+[00:00:57]: [Join Announcement] Guinyの时光
+[00:07:07]: [Join Announcement] 有点皮的卡丘
+[00:12:10]: [Whisper] (KU_0j0lUYAn) 有点皮的卡丘: u
+[00:22:40]: [Death Announcement] 有点皮的卡丘 死于： 破碎蜘蛛。他变成了可怕的鬼魂！
+[00:23:07]: [Vote Announcement] rollback passed
+[00:52:16]: [Skin Announcement] 有点皮的卡丘 oar_driftwood_invisible
+[01:00:52]: [Skin Announcement] Guinyの时光 feet_wickerbottom_ice1
+[01:05:09]: [Death Announcement] Guinyの时光 死于： 海星。他变成了可怕的鬼魂！
+[01:05:29]: [Vote Announcement] rollback passed
+[01:30:41]: [Death Announcement] Guinyの时光 死于： 穴居猴。他变成了可怕的鬼魂！
+[01:31:01]: [Resurrect Announcement] Guinyの时光 复活自： 重生护符.
+[01:40:50]: [Death Announcement] Guinyの时光 死于： 爬行梦魇。他变成了可怕的鬼魂！
+[01:40:58]: [Death Announcement] 有点皮的卡丘 死于： 爬行恐惧。她变成了可怕的鬼魂！
+[01:41:04]: [Vote Announcement] rollback passed
+[01:48:02]: [Death Announcement] Guinyの时光 死于： 梦魇尖喙。他变成了可怕的鬼魂！
+[01:48:08]: [Vote Announcement] rollback passed
+[01:53:34]: [Leave Announcement] 有点皮的卡丘
+[01:54:42]: [Join Announcement] 有点皮的卡丘
+[02:04:03]: [Death Announcement] 有点皮的卡丘 死于： 爬行恐惧。她变成了可怕的鬼魂！
+[02:04:26]: [Resurrect Announcement] 有点皮的卡丘 复活自： 重生护符.
+[02:08:42]: [Skin Announcement] 有点皮的卡丘 feet_workboot_tan_clay
+[02:14:02]: [Skin Announcement] Guinyの时光 legs_wortox_survivor
+[02:14:23]: [Vote Announcement] rollback passed
+[03:16:21]: [Skin Announcement] 有点皮的卡丘 feet_winona_nature
+[03:31:44]: [Vote Announcement] rollback passed
+[03:32:52]: [Skin Announcement] Guinyの时光 feet_wes_magma
+[04:06:31]: [Death Announcement] 有点皮的卡丘 死于： 蜘蛛战士。她变成了可怕的鬼魂！
+[04:08:23]: [Resurrect Announcement] 有点皮的卡丘 复活自： Guinyの时光.
+[04:32:59]: [Skin Announcement] 有点皮的卡丘 body_sweatervest_grey_silver
+[04:45:49]: [Death Announcement] 有点皮的卡丘 死于： 火。她变成了可怕的鬼魂！
+[04:46:08]: [Vote Announcement] rollback passed
+[04:46:08]: [Death Announcement] Guinyの时光 死于： 龙蝇。他变成了可怕的鬼魂！
+[04:48:24]: [Vote Announcement] rollback passed
+[05:13:11]: [Skin Announcement] Guinyの时光 hand_workgloves_red_higgsbury
+[05:26:49]: [Whisper] (KU_0j0lUYAn) 有点皮的卡丘: u
+[05:26:51]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: y
+[05:26:53]: [Whisper] (KU_h4BrFL4H) Guinyの时光: u
+[05:52:57]: [Skin Announcement] 有点皮的卡丘 hand_webber_lunar
+[06:16:52]: [Skin Announcement] Guinyの时光 legs_swing_pants_navy_midnight
+[06:23:11]: [Death Announcement] Guinyの时光 死于： 浣猫。他变成了可怕的鬼魂！
+[06:23:38]: [Vote Announcement] rollback passed
+[06:40:24]: [Death Announcement] Guinyの时光 死于： 海草。他变成了可怕的鬼魂！
+[06:40:32]: [Vote Announcement] rollback passed
+[06:48:12]: [Death Announcement] Guinyの时光 死于： 火药猴。他变成了可怕的鬼魂！
+[06:48:31]: [Vote Announcement] rollback passed
+[06:50:03]: [Skin Announcement] 有点皮的卡丘 legs_pants_basic_grey_dark
+[07:13:50]: [Skin Announcement] Guinyの时光 wilson_beard_madscience
+[07:51:22]: [Whisper] (KU_0j0lUYAn) 有点皮的卡丘: jkjmjjj
+[07:55:09]: [Leave Announcement] 有点皮的卡丘
+[08:14:11]: [Leave Announcement] Guinyの时光
