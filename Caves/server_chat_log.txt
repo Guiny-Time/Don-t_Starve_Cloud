@@ -1,17 +1,10 @@
-[00:01:00]: [Join Announcement] Guinyの时光
-[00:02:16]: [Join Announcement] 有点皮的卡丘
-[00:04:21]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: hao kan
-[00:04:43]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: xiexie piggy king
-[00:07:53]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: 去打狼
-[00:13:04]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: where is zuo gou gou
-[00:13:17]: [Skin Announcement] 有点皮的卡丘 feet_workboot_black_jet
-[00:19:32]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: what happpedn
-[00:21:08]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: I go for grass
-[00:29:01]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: need help say p
-[00:36:47]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: I killed killer bees
-[00:40:33]: [Skin Announcement] Guinyの时光 legs_wormwood_rose
-[00:53:22]: [Say] (KU_0j0lUYAn) 有点皮的卡丘: 理不理我！
-[00:58:05]: [Leave Announcement] 有点皮的卡丘
-[01:24:36]: [Death Announcement] Guinyの时光 死于： 蓝色猎犬。她变成了可怕的鬼魂！
-[01:25:01]: [Resurrect Announcement] Guinyの时光 复活自： 试金石.
-[01:35:59]: [Leave Announcement] Guinyの时光
+[00:00:56]: [Join Announcement] Guinyの时光
+[00:01:41]: [Join Announcement] 有点皮的卡丘
+[00:27:11]: [Skin Announcement] 有点皮的卡丘 wilson_beard_pigguard
+[00:42:07]: [Vote Announcement] rollback passed
+[00:50:20]: [Skin Announcement] Guinyの时光 body_wolfgang_walrusp
+[01:14:39]: [Skin Announcement] 有点皮的卡丘 hand_beltedgloves_red_firehound
+[02:02:15]: [Skin Announcement] Guinyの时光 body_polo_pink_hibiscus
+[02:51:28]: [Skin Announcement] 有点皮的卡丘 hand_wickerbottom_lunar
+[03:04:32]: [Leave Announcement] 有点皮的卡丘
+[03:14:21]: [Leave Announcement] Guinyの时光

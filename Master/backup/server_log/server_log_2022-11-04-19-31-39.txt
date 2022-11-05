@@ -1,0 +1,2220 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 39%
+	Available Physical Memory: 9790m/16303m
+	Available Page File: 12305m/22447m
+	Available Virtual Memory: 134213482m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 30m
+	Working Set Size: 30m
+	Quota Peak Page Pool Usage: 217k
+	Quota Page Pool Usage: 211k
+	Quota Peak Non Paged Pool Usage:15k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/1037572838/Cluster_4/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 529179
+[00:00:00]: Current time: Fri Nov 04 16:22:54 2022
+
+[00:00:00]: Don't Starve Together: 529179 WIN32
+[00:00:00]: Build Date: 1512
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 19512 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_4 -fo -ownernetid 76561198997838566 -ownerdir 1037572838 -clouddir 1037572838 -backup_log_count 25 -backup_log_period 0 -ugc_directory D:\\Steam\\steamapps\\workshop -shard Master -secondary_log_prefix master -sigprefix DST_Master -token *********************************************************************************** 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (14868)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:2.76
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (12592)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1037572838/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (14328)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1037572838/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1037572838/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198997838566
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.18363
+    platformSpecific          SP 0.0
+    architecture              64 位
+  CPU                       
+    clockSpeed                2592
+    name                      Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 4095
+    videoModeDescription      1920 x 1080 x 4294967296 种颜色
+    name                      NVIDIA GeForce GTX 1650
+    driverVersion             27.21.14.6230
+    driverDate                20210405000000.000000-000
+    refreshRate               60
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:02]:   taskgrouplist:	default	联机版	
+[00:00:02]:   taskgrouplist:	classic	经典	
+[00:00:02]:   taskgrouplist:	cave_default	地下	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-378160973	
+[00:00:02]: modoverrides.lua enabling workshop-375859599	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:02]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:02]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:02]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:02]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:02]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:02]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:02]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:02]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:02]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:02]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:02]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:02]: Overriding mod workshop-375859599's option send_unknwon_prefabs with value false	
+[00:00:02]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: Registering Server mod namespace "workshop-378160973"
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: ConsoleScreenSettings could not load consolescreen	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (13224)
+[00:00:06]: FilesExistAsyncThread started (20977 files)...
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 100286 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: [IPC] Signal 'DST_Master_Kill' opened  #00000000000008AC
+[00:00:06]: [IPC] Registering handler for signal #00000000000008AC
+[00:00:06]: [IPC] Handle #00000000000008AC added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Master_ShutdownNoSave' opened  #00000000000008E0
+[00:00:06]: [IPC] Registering handler for signal #00000000000008E0
+[00:00:06]: [IPC] Handle #00000000000008E0 added to the Eventhandles
+[00:00:06]: [IPC] Signal 'DST_Master_Starting' opened  #000000000000089C
+[00:00:06]: [IPC] Sending signal... #000000000000089C
+[00:00:07]: [200] Account Communication Success (6)
+[00:00:07]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/1037572838/Cluster_4/Master/save/cached_userid
+[00:00:07]: Received (KU_h4BrFL4H) from TokenPurpose
+[00:00:07]: Starting Dedicated Server Game	
+[00:00:07]: Network tick rate: U=15(2), D=0
+[00:00:07]: About to start a server with the following settings:
+[00:00:07]:   Dedicated: true
+[00:00:07]:   Online: true
+[00:00:07]:   Passworded: false
+[00:00:07]:   ServerPort: 10999
+[00:00:07]:   SteamAuthPort: 8766
+[00:00:07]:   SteamMasterServerPort: 27016
+[00:00:07]:   ClanID: false
+[00:00:07]:   ClanOnly: false
+[00:00:07]:   ClanAdmin: false
+[00:00:07]:   LanOnly: false
+[00:00:07]:   FriendsOnly: true
+[00:00:07]:   EnableAutosaver: true
+[00:00:07]:   EncodeUserPath: true
+[00:00:07]:   PVP: false
+[00:00:07]:   MaxPlayers: 6
+[00:00:07]:   GameMode: survival
+[00:00:07]:   OverridenDNS: 
+[00:00:07]:   PauseWhenEmpty: true
+[00:00:07]:   IdleTimeout: 1800s
+[00:00:07]:   VoteEnabled: false
+[00:00:07]:   InternetBroadcasting: true
+[00:00:07]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:07]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:07]: Online Server Started on port: 10999
+[00:00:07]: SUCCESS: Loaded modoverrides.lua	
+[00:00:07]: Found a level data override file with these contents:	
+[00:00:07]: 	K: 	desc	 V: 	标准《饥荒》体验。	
+[00:00:07]: 	K: 	hideminimap	 V: 	false	
+[00:00:07]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:00:07]: 	K: 	location	 V: 	forest	
+[00:00:07]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:07]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:07]: 	K: 	name	 V: 	生存	
+[00:00:07]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:07]: 	K: 	override_level_string	 V: 	false	
+[00:00:07]: 	K: 	overrides	 V: 	table: 00000000158C2F80	
+[00:00:07]: 		K: 	alternatehunt	 V: 	default	
+[00:00:07]: 		K: 	angrybees	 V: 	default	
+[00:00:07]: 		K: 	antliontribute	 V: 	default	
+[00:00:07]: 		K: 	autumn	 V: 	longseason	
+[00:00:07]: 		K: 	bananabush_portalrate	 V: 	default	
+[00:00:07]: 		K: 	basicresource_regrowth	 V: 	always	
+[00:00:07]: 		K: 	bats_setting	 V: 	default	
+[00:00:07]: 		K: 	bearger	 V: 	default	
+[00:00:07]: 		K: 	beefalo	 V: 	mostly	
+[00:00:07]: 		K: 	beefaloheat	 V: 	default	
+[00:00:07]: 		K: 	beequeen	 V: 	default	
+[00:00:07]: 		K: 	bees	 V: 	mostly	
+[00:00:07]: 		K: 	bees_setting	 V: 	default	
+[00:00:07]: 		K: 	berrybush	 V: 	insane	
+[00:00:07]: 		K: 	birds	 V: 	default	
+[00:00:07]: 		K: 	boons	 V: 	default	
+[00:00:07]: 		K: 	branching	 V: 	default	
+[00:00:07]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:07]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:07]: 		K: 	butterfly	 V: 	always	
+[00:00:07]: 		K: 	buzzard	 V: 	default	
+[00:00:07]: 		K: 	cactus	 V: 	default	
+[00:00:07]: 		K: 	cactus_regrowth	 V: 	default	
+[00:00:07]: 		K: 	carrot	 V: 	insane	
+[00:00:07]: 		K: 	carrots_regrowth	 V: 	fast	
+[00:00:07]: 		K: 	catcoon	 V: 	insane	
+[00:00:07]: 		K: 	catcoons	 V: 	often	
+[00:00:07]: 		K: 	chess	 V: 	often	
+[00:00:07]: 		K: 	cookiecutters	 V: 	default	
+[00:00:07]: 		K: 	crabking	 V: 	default	
+[00:00:07]: 		K: 	crow_carnival	 V: 	enabled	
+[00:00:07]: 		K: 	darkness	 V: 	default	
+[00:00:07]: 		K: 	day	 V: 	default	
+[00:00:07]: 		K: 	deciduousmonster	 V: 	default	
+[00:00:07]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:07]: 		K: 	deerclops	 V: 	default	
+[00:00:07]: 		K: 	dragonfly	 V: 	default	
+[00:00:07]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:07]: 		K: 	evergreen_regrowth	 V: 	default	
+[00:00:07]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:07]: 		K: 	eyeofterror	 V: 	default	
+[00:00:07]: 		K: 	fishschools	 V: 	default	
+[00:00:07]: 		K: 	flint	 V: 	insane	
+[00:00:07]: 		K: 	flowers	 V: 	insane	
+[00:00:07]: 		K: 	flowers_regrowth	 V: 	veryfast	
+[00:00:07]: 		K: 	frograin	 V: 	default	
+[00:00:07]: 		K: 	frogs	 V: 	default	
+[00:00:07]: 		K: 	fruitfly	 V: 	default	
+[00:00:07]: 		K: 	ghostenabled	 V: 	always	
+[00:00:07]: 		K: 	ghostsanitydrain	 V: 	none	
+[00:00:07]: 		K: 	gnarwail	 V: 	default	
+[00:00:07]: 		K: 	goosemoose	 V: 	default	
+[00:00:07]: 		K: 	grass	 V: 	insane	
+[00:00:07]: 		K: 	grassgekkos	 V: 	default	
+[00:00:07]: 		K: 	hallowed_nights	 V: 	default	
+[00:00:07]: 		K: 	has_ocean	 V: 	true	
+[00:00:07]: 		K: 	healthpenalty	 V: 	always	
+[00:00:07]: 		K: 	hound_mounds	 V: 	default	
+[00:00:07]: 		K: 	houndmound	 V: 	default	
+[00:00:07]: 		K: 	hounds	 V: 	default	
+[00:00:07]: 		K: 	hunger	 V: 	default	
+[00:00:07]: 		K: 	hunt	 V: 	always	
+[00:00:07]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:07]: 		K: 	klaus	 V: 	default	
+[00:00:07]: 		K: 	krampus	 V: 	default	
+[00:00:07]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:07]: 		K: 	lessdamagetaken	 V: 	none	
+[00:00:07]: 		K: 	liefs	 V: 	default	
+[00:00:07]: 		K: 	lightcrab_portalrate	 V: 	default	
+[00:00:07]: 		K: 	lightning	 V: 	default	
+[00:00:07]: 		K: 	lightninggoat	 V: 	default	
+[00:00:07]: 		K: 	loop	 V: 	default	
+[00:00:07]: 		K: 	lureplants	 V: 	default	
+[00:00:07]: 		K: 	malbatross	 V: 	default	
+[00:00:07]: 		K: 	marshbush	 V: 	default	
+[00:00:07]: 		K: 	merm	 V: 	default	
+[00:00:07]: 		K: 	merms	 V: 	default	
+[00:00:07]: 		K: 	meteorshowers	 V: 	default	
+[00:00:07]: 		K: 	meteorspawner	 V: 	default	
+[00:00:07]: 		K: 	moles	 V: 	default	
+[00:00:07]: 		K: 	moles_setting	 V: 	default	
+[00:00:07]: 		K: 	monkeytail_portalrate	 V: 	default	
+[00:00:07]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:07]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:07]: 		K: 	moon_carrot	 V: 	default	
+[00:00:07]: 		K: 	moon_fissure	 V: 	default	
+[00:00:07]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:07]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:07]: 		K: 	moon_rock	 V: 	default	
+[00:00:07]: 		K: 	moon_sapling	 V: 	insane	
+[00:00:07]: 		K: 	moon_spider	 V: 	default	
+[00:00:07]: 		K: 	moon_spiders	 V: 	default	
+[00:00:07]: 		K: 	moon_starfish	 V: 	default	
+[00:00:07]: 		K: 	moon_tree	 V: 	default	
+[00:00:07]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:07]: 		K: 	mosquitos	 V: 	default	
+[00:00:07]: 		K: 	mushroom	 V: 	often	
+[00:00:07]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:07]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:07]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:07]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:07]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:07]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:07]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:07]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:07]: 		K: 	palmcone_seed_portalrate	 V: 	default	
+[00:00:07]: 		K: 	palmconetree	 V: 	often	
+[00:00:07]: 		K: 	palmconetree_regrowth	 V: 	fast	
+[00:00:07]: 		K: 	penguins	 V: 	default	
+[00:00:07]: 		K: 	penguins_moon	 V: 	default	
+[00:00:07]: 		K: 	perd	 V: 	always	
+[00:00:07]: 		K: 	petrification	 V: 	default	
+[00:00:07]: 		K: 	pigs	 V: 	mostly	
+[00:00:07]: 		K: 	pigs_setting	 V: 	always	
+[00:00:07]: 		K: 	pirateraids	 V: 	default	
+[00:00:07]: 		K: 	ponds	 V: 	default	
+[00:00:07]: 		K: 	portal_spawnrate	 V: 	often	
+[00:00:07]: 		K: 	portalresurection	 V: 	always	
+[00:00:07]: 		K: 	powder_monkey_portalrate	 V: 	default	
+[00:00:07]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:07]: 		K: 	rabbits	 V: 	insane	
+[00:00:07]: 		K: 	rabbits_setting	 V: 	often	
+[00:00:07]: 		K: 	reeds	 V: 	often	
+[00:00:07]: 		K: 	reeds_regrowth	 V: 	fast	
+[00:00:07]: 		K: 	regrowth	 V: 	fast	
+[00:00:07]: 		K: 	resettime	 V: 	none	
+[00:00:07]: 		K: 	roads	 V: 	default	
+[00:00:07]: 		K: 	rock	 V: 	insane	
+[00:00:07]: 		K: 	rock_ice	 V: 	default	
+[00:00:07]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:07]: 		K: 	sapling	 V: 	insane	
+[00:00:07]: 		K: 	season_start	 V: 	default	
+[00:00:07]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:07]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:07]: 		K: 	sharks	 V: 	default	
+[00:00:07]: 		K: 	spawnmode	 V: 	fixed	
+[00:00:07]: 		K: 	spawnprotection	 V: 	default	
+[00:00:07]: 		K: 	specialevent	 V: 	default	
+[00:00:07]: 		K: 	spider_warriors	 V: 	default	
+[00:00:07]: 		K: 	spiderqueen	 V: 	default	
+[00:00:07]: 		K: 	spiders	 V: 	default	
+[00:00:07]: 		K: 	spiders_setting	 V: 	default	
+[00:00:07]: 		K: 	spring	 V: 	default	
+[00:00:07]: 		K: 	squid	 V: 	default	
+[00:00:07]: 		K: 	stageplays	 V: 	default	
+[00:00:07]: 		K: 	start_location	 V: 	default	
+[00:00:07]: 		K: 	summer	 V: 	default	
+[00:00:07]: 		K: 	summerhounds	 V: 	default	
+[00:00:07]: 		K: 	tallbirds	 V: 	default	
+[00:00:07]: 		K: 	task_set	 V: 	default	
+[00:00:07]: 		K: 	temperaturedamage	 V: 	default	
+[00:00:07]: 		K: 	tentacles	 V: 	default	
+[00:00:07]: 		K: 	terrariumchest	 V: 	default	
+[00:00:07]: 		K: 	touchstone	 V: 	insane	
+[00:00:07]: 		K: 	trees	 V: 	default	
+[00:00:07]: 		K: 	tumbleweed	 V: 	insane	
+[00:00:07]: 		K: 	twiggytrees_regrowth	 V: 	veryfast	
+[00:00:07]: 		K: 	walrus	 V: 	default	
+[00:00:07]: 		K: 	walrus_setting	 V: 	default	
+[00:00:07]: 		K: 	wasps	 V: 	default	
+[00:00:07]: 		K: 	weather	 V: 	default	
+[00:00:07]: 		K: 	wildfires	 V: 	never	
+[00:00:07]: 		K: 	winter	 V: 	default	
+[00:00:07]: 		K: 	winterhounds	 V: 	default	
+[00:00:07]: 		K: 	winters_feast	 V: 	default	
+[00:00:07]: 		K: 	wobsters	 V: 	default	
+[00:00:07]: 		K: 	world_size	 V: 	huge	
+[00:00:07]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:07]: 		K: 	year_of_the_beefalo	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_carrat	 V: 	enabled	
+[00:00:07]: 		K: 	year_of_the_catcoon	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_gobbler	 V: 	enabled	
+[00:00:07]: 		K: 	year_of_the_pig	 V: 	default	
+[00:00:07]: 		K: 	year_of_the_varg	 V: 	default	
+[00:00:07]: 	K: 	playstyle	 V: 	survival	
+[00:00:07]: 	K: 	random_set_pieces	 V: 	table: 00000000158C2FD0	
+[00:00:07]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:07]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:07]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:07]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:07]: 		K: 	5	 V: 	Chessy_1	
+[00:00:07]: 		K: 	6	 V: 	Chessy_2	
+[00:00:07]: 		K: 	7	 V: 	Chessy_3	
+[00:00:07]: 		K: 	8	 V: 	Chessy_4	
+[00:00:07]: 		K: 	9	 V: 	Chessy_5	
+[00:00:07]: 		K: 	10	 V: 	Chessy_6	
+[00:00:07]: 		K: 	11	 V: 	Maxwell1	
+[00:00:07]: 		K: 	12	 V: 	Maxwell2	
+[00:00:07]: 		K: 	13	 V: 	Maxwell3	
+[00:00:07]: 		K: 	14	 V: 	Maxwell4	
+[00:00:07]: 		K: 	15	 V: 	Maxwell6	
+[00:00:07]: 		K: 	16	 V: 	Maxwell7	
+[00:00:07]: 		K: 	17	 V: 	Warzone_1	
+[00:00:07]: 		K: 	18	 V: 	Warzone_2	
+[00:00:07]: 		K: 	19	 V: 	Warzone_3	
+[00:00:07]: 	K: 	required_prefabs	 V: 	table: 00000000158C2300	
+[00:00:07]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:07]: 	K: 	required_setpieces	 V: 	table: 00000000158C2CB0	
+[00:00:07]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:07]: 		K: 	2	 V: 	Maxwell5	
+[00:00:07]: 	K: 	settings_desc	 V: 	标准《饥荒》体验。	
+[00:00:07]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:07]: 	K: 	settings_name	 V: 	生存	
+[00:00:07]: 	K: 	substitutes	 V: 	table: 00000000158C1DB0	
+[00:00:07]: 	K: 	version	 V: 	4	
+[00:00:07]: 	K: 	worldgen_desc	 V: 	标准《饥荒》体验。	
+[00:00:07]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:07]: 	K: 	worldgen_name	 V: 	生存	
+[00:00:07]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:07]: Overwriting savedata with level data file.	
+[00:00:07]: Not applying world gen overrides.	
+[00:00:07]: Collecting garbage...
+[00:00:07]: lua_gc took 0.04 seconds
+[00:00:07]: ~ShardLuaProxy()
+[00:00:07]: ~cEventLeaderboardProxy()
+[00:00:07]: ~ItemServerLuaProxy()
+[00:00:07]: ~InventoryLuaProxy()
+[00:00:07]: ~NetworkLuaProxy()
+[00:00:07]: ~SimLuaProxy()
+[00:00:07]: FilesExistAsyncThread aborted.
+[00:00:07]: ... FilesExistAsyncThread complete
+[00:00:08]: lua_close took 0.06 seconds
+[00:00:08]: ReleaseAll
+[00:00:08]: ReleaseAll Finished
+[00:00:08]: cGame::StartPlaying
+[00:00:08]: AppVersion::GetArchitecture() x64
+[00:00:08]: LOADING LUA
+[00:00:08]: DoLuaFile scripts/main.lua
+[00:00:08]: DoLuaFile loading buffer scripts/main.lua
+[00:00:08]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:00:09]:   taskgrouplist:	default	联机版	
+[00:00:09]:   taskgrouplist:	classic	经典	
+[00:00:09]:   taskgrouplist:	cave_default	地下	
+[00:00:09]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:00:09]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:10]: Running main.lua
+	
+[00:00:10]: loaded modindex	
+[00:00:10]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:10]: SUCCESS: Loaded modoverrides.lua	
+[00:00:10]: modoverrides.lua enabling workshop-378160973	
+[00:00:10]: modoverrides.lua enabling workshop-375859599	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:10]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:10]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:10]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:10]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:10]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:10]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:10]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:10]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:10]: Overriding mod workshop-375859599's option send_unknwon_prefabs with value false	
+[00:00:10]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:10]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:10]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:10]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:10]: Registering Server mod namespace "workshop-378160973"
+[00:00:10]: PlayerDeaths could not load morgue	
+[00:00:10]: PlayerHistory could not load player_history	
+[00:00:10]: ServerPreferences could not load server_preferences	
+[00:00:10]: ConsoleScreenSettings could not load consolescreen	
+[00:00:10]: bloom_enabled	true	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Loading world: session/717B6D9B28530E77/0000000471	
+[00:00:10]: Save file is at version 5.13	
+[00:00:10]: Klump load on boot started.	
+[00:00:10]: Klump files loaded: 	0	
+[00:00:10]: 	Unload FE	
+[00:00:10]: 	Unload FE done	
+[00:00:11]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:11]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:11]: 	LOAD BE	
+[00:00:19]: 	LOAD BE: done	
+[00:00:19]: Begin Session: 717B6D9B28530E77
+[00:00:19]: saving to server_temp/server_save	
+[00:00:20]: Adding extra World Event: crow_carnival	
+[00:00:20]: Adding extra World Event: year_of_the_carrat	
+[00:00:20]: Adding extra World Event: year_of_the_gobbler	
+[00:00:20]: OVERRIDE: setting	regrowth	to	fast	
+[00:00:20]: OVERRIDE: setting	portal_spawnrate	to	often	
+[00:00:20]: OVERRIDE: setting	healthpenalty	to	always	
+[00:00:20]: OVERRIDE: setting	flowers_regrowth	to	veryfast	
+[00:00:20]: OVERRIDE: setting	wildfires	to	never	
+[00:00:20]: OVERRIDE: setting	palmconetree_regrowth	to	fast	
+[00:00:20]: OVERRIDE: setting	perd	to	always	
+[00:00:20]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:00:20]: OVERRIDE: setting	catcoons	to	often	
+[00:00:20]: OVERRIDE: setting	reeds_regrowth	to	fast	
+[00:00:20]: OVERRIDE: setting	pigs_setting	to	always	
+[00:00:20]: OVERRIDE: setting	carrots_regrowth	to	fast	
+[00:00:20]: OVERRIDE: setting	hunt	to	always	
+[00:00:20]: OVERRIDE: setting	butterfly	to	always	
+[00:00:20]: OVERRIDE: setting	rabbits_setting	to	often	
+[00:00:20]: OVERRIDE: setting	twiggytrees_regrowth	to	veryfast	
+[00:00:20]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:20]: Loading 19 new character(s)	
+[00:00:20]: Total 19 character(s) loaded	
+[00:00:21]: Loading Nav Grid	
+[00:00:21]: World generated on build 514408 with save version: 5.12, using seed: 1657545839	
+[00:00:21]: setting 	summerlength	15	
+[00:00:21]: setting 	cavemoonphase	half	
+[00:00:21]: setting 	iscavefullmoon	false	
+[00:00:21]: setting 	isnightmaredawn	false	
+[00:00:21]: setting 	elapseddaysinseason	0	
+[00:00:21]: setting 	isfullmoon	false	
+[00:00:21]: setting 	moisture	1837.9459228516	
+[00:00:21]: setting 	cavephase	dusk	
+[00:00:21]: setting 	iscavewaxingmoon	true	
+[00:00:21]: setting 	isnightmarewild	false	
+[00:00:21]: setting 	nightmaretimeinphase	0	
+[00:00:21]: setting 	precipitationrate	0	
+[00:00:21]: setting 	iswet	false	
+[00:00:21]: setting 	isnewmoon	false	
+[00:00:21]: setting 	precipitation	none	
+[00:00:21]: setting 	israining	false	
+[00:00:21]: setting 	isnightmarewarn	false	
+[00:00:21]: setting 	iswinter	false	
+[00:00:21]: setting 	season	spring	
+[00:00:21]: setting 	remainingdaysinseason	20	
+[00:00:21]: setting 	winterlength	15	
+[00:00:21]: setting 	iscaveday	false	
+[00:00:21]: setting 	moistureceil	1893.8728027344	
+[00:00:21]: setting 	isday	false	
+[00:00:21]: setting 	springlength	20	
+[00:00:21]: setting 	wetness	0	
+[00:00:21]: setting 	iscavedusk	true	
+[00:00:21]: setting 	isalterawake	false	
+[00:00:21]: setting 	isnightmarecalm	false	
+[00:00:21]: setting 	isnight	false	
+[00:00:21]: setting 	isdusk	true	
+[00:00:21]: setting 	isspring	true	
+[00:00:21]: setting 	isautumn	false	
+[00:00:21]: setting 	issnowing	false	
+[00:00:21]: setting 	iswaxingmoon	true	
+[00:00:21]: setting 	phase	dusk	
+[00:00:21]: setting 	snowlevel	0	
+[00:00:21]: setting 	issnowcovered	false	
+[00:00:21]: setting 	autumnlength	30	
+[00:00:21]: setting 	pop	0.92224461515876	
+[00:00:21]: setting 	nightmaretime	0	
+[00:00:21]: setting 	seasonprogress	0	
+[00:00:21]: setting 	moonphase	half	
+[00:00:21]: setting 	nightmarephase	none	
+[00:00:21]: setting 	cycles	445	
+[00:00:21]: setting 	timeinphase	0.0052881876627604	
+[00:00:21]: setting 	iscavenight	false	
+[00:00:21]: setting 	iscavenewmoon	false	
+[00:00:21]: setting 	issummer	false	
+[00:00:21]: setting 	temperature	2.9512278804763	
+[00:00:21]: setting 	time	0.31448307037354	
+[00:00:21]: OVERRIDE: setting	autumn	to	longseason	
+[00:00:21]: OVERRIDE: setting	ghostenabled	to	always	
+[00:00:21]: OVERRIDE: setting	resettime	to	none	
+[00:00:21]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:21]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:21]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:00:21]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:22]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:22]: Some objects are not supported by the mod.	
+[00:00:22]: Unknown objects: boat_pirate	
+[00:00:22]: You can enable these objects if you change the option "Unknown Objects".	
+[00:00:22]: See more info at http://steamcommunity.com/workshop/filedetails/discussion/375859599/343787283764426976/	
+[00:00:22]: --------------------------------------------------------	
+[00:00:24]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:24]: Unknown objects: hedgehound_bush	
+[00:00:26]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:26]: Unknown objects: stageusher	
+[00:00:27]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:27]: Unknown objects: powder_monkey	
+[00:00:28]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:28]: Unknown objects: lightcrab	
+[00:00:31]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:31]: Unknown objects: warglet	
+[00:00:31]: Reconstructing topology	
+[00:00:31]: 	...Sorting points	
+[00:00:31]: 	...Sorting edges	
+[00:00:31]: 	...Connecting nodes	
+[00:00:31]: 	...Validating connections	
+[00:00:31]: 	...Housekeeping	
+[00:00:31]: 	...Done!	
+[00:00:31]: 1 uploads added to server. From server_temp
+[00:00:31]: About to start a shard with these settings:
+[00:00:31]:   ShardName: [SHDMASTER]
+[00:00:31]:   ShardID: 1
+[00:00:31]:   ShardRole: MASTER
+[00:00:31]:   MasterHost: (null)
+[00:00:31]:   MasterBind: 127.0.0.1
+[00:00:31]:   MasterPort: 10888
+[00:00:31]: [Shard] Starting master server
+[00:00:31]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:31]: [Shard] Shard server started on port: 10888
+[00:00:32]: [IPC] Signal 'DST_Master_Ready' opened  #0000000000000904
+[00:00:32]: [IPC] Sending signal... #0000000000000904
+[00:00:32]: Telling Client our new session identifier: 717B6D9B28530E77
+[00:00:32]: Check for write access: TRUE
+[00:00:32]: Check for read access: TRUE
+[00:00:32]: Available disk space for save files: 100285 MB
+[00:00:32]: ModIndex: Load sequence finished successfully.	
+[00:00:35]: Reset() returning
+[00:00:35]: Validating portal[9] <-> 2485293662[9] (inactive)	
+[00:00:35]: Validating portal[6] <-> 2485293662[6] (inactive)	
+[00:00:35]: Validating portal[2] <-> 2485293662[2] (inactive)	
+[00:00:35]: Validating portal[7] <-> 2485293662[7] (inactive)	
+[00:00:35]: Validating portal[1] <-> 2485293662[1] (inactive)	
+[00:00:36]: Validating portal[4] <-> 2485293662[4] (inactive)	
+[00:00:36]: Validating portal[10] <-> 2485293662[10] (inactive)	
+[00:00:36]: Validating portal[3] <-> 2485293662[3] (inactive)	
+[00:00:36]: Validating portal[8] <-> 2485293662[8] (inactive)	
+[00:00:36]: Validating portal[5] <-> 2485293662[5] (inactive)	
+[00:00:36]: Sim paused
+[00:00:36]: Server registered via geo DNS in US
+[00:00:36]: [Shard] Secondary shard Caves(2485293662) connected: [LAN] 127.0.0.1
+[00:00:38]: [Shard] Secondary Caves(2485293662) ready!
+[00:00:38]: World 2485293662 is now connected	
+[00:00:38]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option darkness = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option hunger = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option healthpenalty = always to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option temperaturedamage = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option ghostenabled = always to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option spawnmode = fixed to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option shadowcreatures = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option brightmarecreatures = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option lessdamagetaken = none to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option krampus = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Sending master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:38]: Validating portal[9] <-> 2485293662[9] (active)	
+[00:00:38]: Validating portal[6] <-> 2485293662[6] (active)	
+[00:00:38]: Validating portal[2] <-> 2485293662[2] (active)	
+[00:00:38]: Validating portal[7] <-> 2485293662[7] (active)	
+[00:00:38]: Validating portal[1] <-> 2485293662[1] (active)	
+[00:00:38]: Validating portal[4] <-> 2485293662[4] (disabled)	
+[00:00:38]: Validating portal[10] <-> 2485293662[10] (active)	
+[00:00:38]: Validating portal[3] <-> 2485293662[3] (active)	
+[00:00:38]: Validating portal[8] <-> 2485293662[8] (active)	
+[00:00:38]: Validating portal[5] <-> 2485293662[5] (active)	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option darkness = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option hunger = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option healthpenalty = always to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option temperaturedamage = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option ghostenabled = always to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option spawnmode = fixed to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option shadowcreatures = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option brightmarecreatures = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option lessdamagetaken = none to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option krampus = default to secondary shards.	
+[00:00:38]: [SyncWorldSettings] Resyncing master world option dropeverythingondespawn = default to secondary shards.	
+[00:00:40]: New incoming connection 127.0.0.1|61601 <6587132482054827283>
+[00:00:40]: Client connected from [LAN] 127.0.0.1|61601 <6587132482054827283>
+[00:00:40]: ValidateGameSessionToken GUID<6587132482054827283>
+[00:00:40]: Client authenticated: (KU_h4BrFL4H) Guinyの时光
+[00:00:40]: [Steam] Authenticated host '76561198997838566'
+[00:00:42]: There is no active event to validate against.
+[00:00:42]: [Shard] Read save location file for (KU_h4BrFL4H)
+[00:01:05]: Resuming user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000471
+[00:01:05]: Spawning player at: [Load] (53.00, 0.00, -254.49)	
+[00:01:05]: Sim unpaused
+[00:02:21]: Server Autopaused	
+[00:02:23]: Server Unpaused	
+[00:02:32]: [P2P] Session request for '76561199024926747'
+[00:02:36]: [P2P] Create session: 120.171.47.61|1 '76561199024926747'
+[00:02:36]: [P2P] Received from 120.171.47.61|1 '76561199024926747'
+[00:02:36]: [P2P] Sent to 120.171.47.61|1 '76561199024926747'
+[00:02:36]: New incoming connection 120.171.47.61|1 <9113970401773839829>
+[00:02:36]: Client connected from 120.171.47.61|1 <9113970401773839829>
+[00:02:36]: ValidateGameSessionToken GUID<9113970401773839829>
+[00:02:37]: Client authenticated: (KU_0j0lUYAn) 有点皮的卡丘
+[00:02:37]: [Steam] SendUserConnectAndAuthenticate for '76561199024926747'
+[00:02:38]: [Steam] Authenticated client '76561199024926747'
+[00:02:39]: There is no active event to validate against.
+[00:02:39]: [Shard] Read save location file for (KU_0j0lUYAn)
+[00:03:13]: Resuming user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000464
+[00:03:13]: Spawning player at: [Load] (-69.53, 0.00, 98.18)	
+[00:03:40]: Server Paused	
+[00:03:45]: Server Unpaused	
+[00:04:20]: Server Paused	
+[00:04:27]: Server Unpaused	
+[00:04:39]: Server Paused	
+[00:04:42]: Server Unpaused	
+[00:06:52]: Available disk space for save files: 100278 MB
+[00:06:52]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000472
+[00:06:52]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000472
+[00:06:52]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[00:06:52]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[00:06:52]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[00:06:52]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[00:06:52]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[00:06:52]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[00:06:52]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[00:06:52]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[00:06:52]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[00:06:52]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[00:06:52]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[00:06:52]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[00:06:52]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[00:06:52]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[00:06:52]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[00:06:52]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[00:06:52]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[00:06:52]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[00:06:52]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[00:06:52]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[00:06:52]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[00:06:52]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[00:06:52]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[00:06:52]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[00:06:52]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[00:06:52]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[00:06:52]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[00:06:52]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[00:06:52]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[00:06:52]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[00:06:52]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[00:06:52]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[00:06:52]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[00:06:52]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[00:06:52]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[00:06:52]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[00:06:52]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[00:06:52]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[00:06:52]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[00:06:52]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[00:06:52]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[00:06:52]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[00:06:52]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[00:06:52]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[00:06:52]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[00:06:53]: Serializing world: session/717B6D9B28530E77/0000000472
+[00:07:51]: Server Paused	
+[00:07:51]: Server Unpaused	
+[00:09:25]: Could not find anim [dismount] in bank [wilson]
+[00:09:25]: Could not find anim [dismount] in bank [wilson]
+[00:09:57]: Server Paused	
+[00:10:01]: Server Unpaused	
+[00:11:23]: Server Paused	
+[00:11:25]: Server Unpaused	
+[00:11:34]: Server Paused	
+[00:11:36]: Server Unpaused	
+[00:13:25]: Could not find anim [dismount] in bank [wilson]
+[00:13:25]: Could not find anim [dismount] in bank [wilson]
+[00:15:01]: Available disk space for save files: 100270 MB
+[00:15:02]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000473
+[00:15:02]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000473
+[00:15:02]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[00:15:02]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[00:15:02]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[00:15:02]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[00:15:02]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[00:15:02]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[00:15:02]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[00:15:02]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[00:15:02]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[00:15:02]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[00:15:02]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[00:15:02]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[00:15:02]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[00:15:02]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[00:15:02]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[00:15:02]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[00:15:02]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[00:15:02]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[00:15:02]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[00:15:02]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[00:15:02]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[00:15:02]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[00:15:02]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[00:15:02]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[00:15:02]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[00:15:02]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[00:15:02]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[00:15:02]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[00:15:02]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[00:15:02]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[00:15:02]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[00:15:02]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[00:15:02]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[00:15:02]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[00:15:02]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[00:15:02]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[00:15:02]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[00:15:02]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[00:15:02]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[00:15:02]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[00:15:02]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[00:15:02]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[00:15:02]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[00:15:02]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[00:15:02]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[00:15:02]: Serializing world: session/717B6D9B28530E77/0000000473
+[00:16:47]: Could not find anim [dismount] in bank [wilson]
+[00:16:47]: Could not find anim [dismount] in bank [wilson]
+[00:17:19]: Could not find anim [dismount] in bank [wilson]
+[00:17:19]: Could not find anim [dismount] in bank [wilson]
+[00:17:43]: Could not find anim [dismount] in bank [wilson]
+[00:17:43]: Could not find anim [dismount] in bank [wilson]
+[00:18:33]: Server Paused	
+[00:18:55]: Server Unpaused	
+[00:21:22]: Server Paused	
+[00:21:24]: Server Unpaused	
+[00:21:41]: Could not find anim [dismount] in bank [wilson]
+[00:21:41]: Could not find anim [dismount] in bank [wilson]
+[00:23:27]: Available disk space for save files: 100263 MB
+[00:23:27]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000474
+[00:23:27]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000474
+[00:23:27]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[00:23:27]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[00:23:27]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[00:23:27]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[00:23:27]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[00:23:27]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[00:23:27]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[00:23:27]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[00:23:27]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[00:23:27]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[00:23:27]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[00:23:27]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[00:23:27]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[00:23:27]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[00:23:27]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[00:23:27]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[00:23:27]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[00:23:27]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[00:23:27]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[00:23:27]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[00:23:27]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[00:23:27]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[00:23:27]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[00:23:27]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[00:23:27]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[00:23:27]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[00:23:27]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[00:23:27]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[00:23:27]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[00:23:27]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[00:23:27]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[00:23:27]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[00:23:27]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[00:23:27]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[00:23:27]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[00:23:27]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[00:23:27]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[00:23:27]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[00:23:27]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[00:23:27]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[00:23:27]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[00:23:27]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[00:23:27]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[00:23:27]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[00:23:27]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[00:23:28]: Serializing world: session/717B6D9B28530E77/0000000474
+[00:25:54]: Could not find anim [dismount] in bank [wilson]
+[00:25:54]: Could not find anim [dismount] in bank [wilson]
+[00:26:30]: Could not find anim [dismount] in bank [wilson]
+[00:26:30]: Could not find anim [dismount] in bank [wilson]
+[00:29:03]: Could not find anim [dismount] in bank [wilson]
+[00:29:03]: Could not find anim [dismount] in bank [wilson]
+[00:29:27]: Could not find anim [dismount] in bank [wilson]
+[00:30:07]: [200] Account Communication Success (6)
+[00:30:07]: Received (KU_h4BrFL4H) from TokenPurpose
+[00:31:28]: Available disk space for save files: 100256 MB
+[00:31:28]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000475
+[00:31:28]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000475
+[00:31:28]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[00:31:28]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[00:31:28]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[00:31:28]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[00:31:28]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[00:31:28]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[00:31:28]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[00:31:28]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[00:31:28]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[00:31:28]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[00:31:28]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[00:31:28]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[00:31:28]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[00:31:28]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[00:31:28]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[00:31:28]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[00:31:28]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[00:31:28]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[00:31:28]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[00:31:28]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[00:31:28]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[00:31:28]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[00:31:28]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[00:31:28]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[00:31:28]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[00:31:28]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[00:31:28]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[00:31:28]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[00:31:28]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[00:31:28]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[00:31:28]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[00:31:28]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[00:31:28]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[00:31:28]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[00:31:28]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[00:31:28]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[00:31:28]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[00:31:28]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[00:31:28]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[00:31:28]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[00:31:28]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[00:31:28]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[00:31:28]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[00:31:28]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[00:31:28]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[00:31:29]: Serializing world: session/717B6D9B28530E77/0000000475
+[00:39:29]: Available disk space for save files: 100250 MB
+[00:39:29]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000476
+[00:39:29]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000476
+[00:39:29]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[00:39:29]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[00:39:29]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[00:39:29]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[00:39:29]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[00:39:29]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[00:39:29]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[00:39:29]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[00:39:29]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[00:39:29]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[00:39:29]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[00:39:29]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[00:39:29]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[00:39:29]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[00:39:29]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[00:39:29]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[00:39:29]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[00:39:29]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[00:39:29]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[00:39:29]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[00:39:29]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[00:39:29]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[00:39:29]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[00:39:29]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[00:39:29]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[00:39:29]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[00:39:29]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[00:39:29]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[00:39:29]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[00:39:29]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[00:39:29]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[00:39:29]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[00:39:29]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[00:39:29]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[00:39:29]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[00:39:29]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[00:39:29]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[00:39:29]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[00:39:29]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[00:39:29]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[00:39:29]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[00:39:29]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[00:39:29]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[00:39:29]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[00:39:29]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[00:39:30]: Serializing world: session/717B6D9B28530E77/0000000476
+[00:41:09]: Could not find anim [dismount] in bank [wilson]
+[00:41:09]: Could not find anim [dismount] in bank [wilson]
+[00:42:11]: Rate limiting RPCs from	150479 - wendy	KU_0j0lUYAn	last one being ID	39	
+[00:42:20]: Server Paused	
+[00:42:23]: Server Unpaused	
+[00:43:54]: Could not find anim [dismount] in bank [wilson]
+[00:43:54]: Could not find anim [dismount] in bank [wilson]
+[00:47:32]: Available disk space for save files: 100243 MB
+[00:47:33]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000477
+[00:47:33]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000477
+[00:47:33]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[00:47:33]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[00:47:33]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[00:47:33]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[00:47:33]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[00:47:33]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[00:47:33]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[00:47:33]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[00:47:33]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[00:47:33]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[00:47:33]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[00:47:33]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[00:47:33]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[00:47:33]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[00:47:33]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[00:47:33]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[00:47:33]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[00:47:33]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[00:47:33]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[00:47:33]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[00:47:33]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[00:47:33]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[00:47:33]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[00:47:33]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[00:47:33]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[00:47:33]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[00:47:33]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[00:47:33]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[00:47:33]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[00:47:33]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[00:47:33]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[00:47:33]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[00:47:33]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[00:47:33]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[00:47:33]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[00:47:33]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[00:47:33]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[00:47:33]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[00:47:33]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[00:47:33]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[00:47:33]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[00:47:33]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[00:47:33]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[00:47:33]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[00:47:33]: Serializing world: session/717B6D9B28530E77/0000000477
+[00:47:55]: Could not find anim [dismount] in bank [wilson]
+[00:47:55]: Could not find anim [dismount] in bank [wilson]
+[00:49:45]: Could not find anim [dismount] in bank [wilson]
+[00:49:45]: Could not find anim [dismount] in bank [wilson]
+[00:55:33]: Available disk space for save files: 100237 MB
+[00:55:34]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000478
+[00:55:34]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000478
+[00:55:34]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[00:55:34]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[00:55:34]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[00:55:34]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[00:55:34]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[00:55:34]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[00:55:34]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[00:55:34]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[00:55:34]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[00:55:34]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[00:55:34]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[00:55:34]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[00:55:34]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[00:55:34]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[00:55:34]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[00:55:34]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[00:55:34]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[00:55:34]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[00:55:34]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[00:55:34]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[00:55:34]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[00:55:34]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[00:55:34]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[00:55:34]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[00:55:34]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[00:55:34]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[00:55:34]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[00:55:34]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[00:55:34]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[00:55:34]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[00:55:34]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[00:55:34]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[00:55:34]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[00:55:34]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[00:55:34]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[00:55:34]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[00:55:34]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[00:55:34]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[00:55:34]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[00:55:34]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[00:55:34]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[00:55:34]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[00:55:34]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[00:55:34]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[00:55:34]: Serializing world: session/717B6D9B28530E77/0000000478
+[00:56:36]: Could not find anim [dismount] in bank [wilson]
+[00:56:36]: Could not find anim [dismount] in bank [wilson]
+[00:57:09]: Could not find anim [dismount] in bank [wilson]
+[00:57:09]: Could not find anim [dismount] in bank [wilson]
+[01:00:07]: [200] Account Communication Success (6)
+[01:00:07]: Received (KU_h4BrFL4H) from TokenPurpose
+[01:03:34]: Available disk space for save files: 100230 MB
+[01:03:35]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000479
+[01:03:35]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000479
+[01:03:35]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[01:03:35]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[01:03:35]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[01:03:35]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[01:03:35]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[01:03:35]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[01:03:35]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[01:03:35]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[01:03:35]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[01:03:35]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[01:03:35]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[01:03:35]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[01:03:35]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[01:03:35]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[01:03:35]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[01:03:35]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[01:03:35]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[01:03:35]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[01:03:35]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[01:03:35]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[01:03:35]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[01:03:35]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[01:03:35]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[01:03:35]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[01:03:35]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[01:03:35]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[01:03:35]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[01:03:35]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[01:03:35]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[01:03:35]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[01:03:35]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[01:03:35]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[01:03:35]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[01:03:35]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[01:03:35]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[01:03:35]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[01:03:35]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[01:03:35]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[01:03:35]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[01:03:35]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[01:03:35]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[01:03:35]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[01:03:35]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[01:03:35]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[01:03:35]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[01:03:35]: Serializing world: session/717B6D9B28530E77/0000000479
+[01:06:08]: Could not find anim [dismount] in bank [wilson]
+[01:06:08]: Could not find anim [dismount] in bank [wilson]
+[01:11:35]: Available disk space for save files: 100223 MB
+[01:11:36]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000480
+[01:11:36]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000480
+[01:11:36]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[01:11:36]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[01:11:36]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[01:11:36]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[01:11:36]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[01:11:36]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[01:11:36]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[01:11:36]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[01:11:36]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[01:11:36]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[01:11:36]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[01:11:36]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[01:11:36]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[01:11:36]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[01:11:36]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[01:11:36]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[01:11:36]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[01:11:36]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[01:11:36]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[01:11:36]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[01:11:36]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[01:11:36]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[01:11:36]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[01:11:36]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[01:11:36]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[01:11:36]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[01:11:36]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[01:11:36]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[01:11:36]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[01:11:36]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[01:11:36]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[01:11:36]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[01:11:36]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[01:11:36]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[01:11:36]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[01:11:36]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[01:11:36]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[01:11:36]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[01:11:36]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[01:11:36]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[01:11:36]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[01:11:36]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[01:11:36]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[01:11:36]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[01:11:36]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo(LIMBO)	
+[01:11:36]: Serializing world: session/717B6D9B28530E77/0000000480
+[01:13:47]: Could not find anim [dismount] in bank [wilson]
+[01:13:47]: Could not find anim [dismount] in bank [wilson]
+[01:19:36]: Available disk space for save files: 100220 MB
+[01:19:37]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000481
+[01:19:37]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000481
+[01:19:37]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[01:19:37]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[01:19:37]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[01:19:37]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[01:19:37]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[01:19:37]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[01:19:37]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[01:19:37]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[01:19:37]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[01:19:37]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[01:19:37]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[01:19:37]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[01:19:37]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[01:19:37]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[01:19:37]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[01:19:37]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[01:19:37]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[01:19:37]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[01:19:37]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[01:19:37]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[01:19:37]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[01:19:37]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[01:19:37]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[01:19:37]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[01:19:37]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[01:19:37]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[01:19:37]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[01:19:37]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[01:19:37]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[01:19:37]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[01:19:37]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[01:19:37]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[01:19:37]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[01:19:37]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[01:19:37]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[01:19:37]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[01:19:37]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[01:19:37]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[01:19:37]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[01:19:37]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[01:19:37]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[01:19:37]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[01:19:37]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[01:19:37]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[01:19:37]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[01:19:37]: Serializing world: session/717B6D9B28530E77/0000000481
+[01:22:49]: Could not find anim [dismount] in bank [wilson]
+[01:22:49]: Could not find anim [dismount] in bank [wilson]
+[01:23:22]: Could not find anim [dismount] in bank [wilson]
+[01:23:22]: Could not find anim [dismount] in bank [wilson]
+[01:25:58]: Could not find anim [dismount] in bank [wilson]
+[01:25:58]: Could not find anim [dismount] in bank [wilson]
+[01:27:37]: Available disk space for save files: 100214 MB
+[01:27:38]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000482
+[01:27:38]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000482
+[01:27:38]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[01:27:38]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[01:27:38]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[01:27:38]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[01:27:38]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[01:27:38]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[01:27:38]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[01:27:38]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[01:27:38]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[01:27:38]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[01:27:38]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[01:27:38]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[01:27:38]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[01:27:38]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[01:27:38]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[01:27:38]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[01:27:38]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[01:27:38]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[01:27:38]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[01:27:38]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[01:27:38]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[01:27:38]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[01:27:38]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[01:27:38]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[01:27:38]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[01:27:38]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[01:27:38]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[01:27:38]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[01:27:38]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[01:27:38]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[01:27:38]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[01:27:38]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[01:27:38]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[01:27:38]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[01:27:38]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[01:27:38]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[01:27:38]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[01:27:38]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[01:27:38]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[01:27:38]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[01:27:38]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[01:27:38]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[01:27:38]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[01:27:38]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[01:27:38]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo(LIMBO)	
+[01:27:38]: Serializing world: session/717B6D9B28530E77/0000000482
+[01:28:31]: Could not find anim [dismount] in bank [wilson]
+[01:28:31]: Could not find anim [dismount] in bank [wilson]
+[01:29:22]: Could not find anim [dismount] in bank [wilson]
+[01:29:22]: Could not find anim [dismount] in bank [wilson]
+[01:30:07]: [200] Account Communication Success (6)
+[01:30:07]: Received (KU_h4BrFL4H) from TokenPurpose
+[01:30:57]: Could not find anim [dismount] in bank [wilson]
+[01:30:57]: Could not find anim [dismount] in bank [wilson]
+[01:33:06]: Could not find anim [dismount] in bank [wilson]
+[01:33:06]: Could not find anim [dismount] in bank [wilson]
+[01:35:38]: Available disk space for save files: 100208 MB
+[01:35:39]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000483
+[01:35:39]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000483
+[01:35:39]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[01:35:39]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[01:35:39]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[01:35:39]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[01:35:39]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[01:35:39]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[01:35:39]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[01:35:39]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[01:35:39]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[01:35:39]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[01:35:39]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[01:35:39]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[01:35:39]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[01:35:39]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[01:35:39]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[01:35:39]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[01:35:39]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[01:35:39]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[01:35:39]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[01:35:39]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[01:35:39]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[01:35:39]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[01:35:39]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[01:35:39]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[01:35:39]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[01:35:39]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[01:35:39]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[01:35:39]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[01:35:39]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[01:35:39]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[01:35:39]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[01:35:39]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[01:35:39]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[01:35:39]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[01:35:39]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[01:35:39]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[01:35:39]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[01:35:39]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[01:35:39]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[01:35:39]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[01:35:39]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[01:35:39]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[01:35:39]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[01:35:39]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[01:35:39]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[01:35:39]: Serializing world: session/717B6D9B28530E77/0000000483
+[01:40:19]: Could not find anim [dismount] in bank [wilson]
+[01:40:19]: Could not find anim [dismount] in bank [wilson]
+[01:40:36]: ----------------- HEALTH INFO WARNING ------------------	
+[01:40:36]: Unknown objects: hedgehound	
+[01:42:19]: Could not find anim [dismount] in bank [wilson]
+[01:42:19]: Could not find anim [dismount] in bank [wilson]
+[01:43:39]: Available disk space for save files: 100201 MB
+[01:43:40]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000484
+[01:43:40]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000484
+[01:43:40]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[01:43:40]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[01:43:40]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[01:43:40]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[01:43:40]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[01:43:40]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[01:43:40]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[01:43:40]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[01:43:40]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[01:43:40]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[01:43:40]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[01:43:40]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[01:43:40]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[01:43:40]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[01:43:40]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[01:43:40]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[01:43:40]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[01:43:40]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[01:43:40]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[01:43:40]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[01:43:40]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[01:43:40]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[01:43:40]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[01:43:40]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[01:43:40]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[01:43:40]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[01:43:40]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[01:43:40]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[01:43:40]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[01:43:40]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[01:43:40]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[01:43:40]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[01:43:40]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[01:43:40]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[01:43:40]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[01:43:40]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[01:43:40]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[01:43:40]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[01:43:40]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[01:43:40]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[01:43:40]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[01:43:40]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[01:43:40]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[01:43:40]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[01:43:40]: Serializing world: session/717B6D9B28530E77/0000000484
+[01:44:50]: Could not find anim [dismount] in bank [wilson]
+[01:44:50]: Could not find anim [dismount] in bank [wilson]
+[01:47:47]: Could not find anim [dismount] in bank [wilson]
+[01:47:47]: Could not find anim [dismount] in bank [wilson]
+[01:49:24]: Server Paused	
+[01:49:27]: Server Unpaused	
+[01:49:27]: Server Paused	
+[01:49:29]: Server Unpaused	
+[01:49:30]: Server Paused	
+[01:49:31]: Server Unpaused	
+[01:50:25]: Server Paused	
+[01:50:27]: Server Unpaused	
+[01:50:30]: Server Paused	
+[01:50:38]: Server Unpaused	
+[01:50:40]: Server Paused	
+[01:50:41]: Server Unpaused	
+[01:51:23]: Could not find anim [dismount] in bank [wilson]
+[01:51:23]: Could not find anim [dismount] in bank [wilson]
+[01:51:57]: Available disk space for save files: 100195 MB
+[01:51:57]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000485
+[01:51:57]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000485
+[01:51:57]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[01:51:57]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[01:51:57]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[01:51:57]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[01:51:57]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[01:51:57]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[01:51:57]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[01:51:57]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[01:51:57]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[01:51:57]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[01:51:57]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[01:51:57]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[01:51:57]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[01:51:57]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[01:51:57]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[01:51:57]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[01:51:57]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[01:51:57]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[01:51:57]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[01:51:57]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[01:51:57]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[01:51:57]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[01:51:57]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[01:51:57]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[01:51:57]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[01:51:57]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[01:51:57]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[01:51:57]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[01:51:57]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[01:51:57]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[01:51:57]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[01:51:57]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[01:51:57]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[01:51:57]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[01:51:57]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[01:51:57]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[01:51:57]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[01:51:57]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[01:51:57]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[01:51:57]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[01:51:57]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[01:51:57]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[01:51:57]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[01:51:57]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[01:51:57]: Missing reference:	218486 - fruitfly	->	true	nil	
+[01:51:58]: Serializing world: session/717B6D9B28530E77/0000000485
+[01:51:58]: Rate limiting RPCs from	147859 - wurt	KU_h4BrFL4H	last one being ID	39	
+[01:52:29]: Could not find anim [dismount] in bank [wilson]
+[01:52:29]: Could not find anim [dismount] in bank [wilson]
+[01:52:41]: Could not find anim [dismount] in bank [wilson]
+[01:52:41]: Could not find anim [dismount] in bank [wilson]
+[01:53:57]: Could not find anim [dismount] in bank [wilson]
+[01:53:57]: Could not find anim [dismount] in bank [wilson]
+[01:56:20]: Could not find anim [dismount] in bank [wilson]
+[01:56:20]: Could not find anim [dismount] in bank [wilson]
+[01:57:22]: Could not find anim [dismount] in bank [wilson]
+[01:57:22]: Could not find anim [dismount] in bank [wilson]
+[01:59:58]: Available disk space for save files: 100188 MB
+[01:59:58]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000486
+[01:59:58]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000486
+[01:59:58]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[01:59:58]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[01:59:58]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[01:59:58]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[01:59:58]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[01:59:58]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[01:59:58]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[01:59:58]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[01:59:58]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[01:59:58]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[01:59:58]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[01:59:58]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[01:59:58]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[01:59:58]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[01:59:58]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[01:59:58]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[01:59:58]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[01:59:58]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[01:59:58]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[01:59:58]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[01:59:58]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[01:59:58]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[01:59:58]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[01:59:58]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[01:59:58]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[01:59:58]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[01:59:58]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[01:59:58]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[01:59:58]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[01:59:58]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[01:59:58]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[01:59:58]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[01:59:58]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[01:59:58]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[01:59:58]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[01:59:58]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[01:59:58]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[01:59:58]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[01:59:58]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[01:59:58]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[01:59:58]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[01:59:58]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[01:59:58]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[01:59:58]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[01:59:58]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[01:59:59]: Serializing world: session/717B6D9B28530E77/0000000486
+[02:00:07]: [200] Account Communication Success (6)
+[02:00:07]: Received (KU_h4BrFL4H) from TokenPurpose
+[02:00:52]: Could not find anim [dismount] in bank [wilson]
+[02:00:52]: Could not find anim [dismount] in bank [wilson]
+[02:03:57]: Could not find anim [dismount] in bank [wilson]
+[02:03:57]: Could not find anim [dismount] in bank [wilson]
+[02:07:11]: Could not find anim [dismount] in bank [wilson]
+[02:07:11]: Could not find anim [dismount] in bank [wilson]
+[02:07:59]: Available disk space for save files: 100182 MB
+[02:07:59]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000487
+[02:07:59]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000487
+[02:07:59]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[02:07:59]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[02:07:59]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[02:07:59]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[02:07:59]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[02:07:59]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[02:07:59]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[02:07:59]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[02:07:59]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[02:07:59]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[02:07:59]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[02:07:59]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[02:07:59]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[02:07:59]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[02:07:59]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[02:07:59]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[02:07:59]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[02:07:59]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[02:07:59]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[02:07:59]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[02:07:59]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[02:07:59]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[02:07:59]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[02:07:59]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[02:07:59]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[02:07:59]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[02:07:59]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[02:07:59]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[02:07:59]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[02:07:59]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[02:07:59]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[02:07:59]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[02:07:59]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[02:07:59]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[02:07:59]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[02:07:59]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[02:07:59]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[02:07:59]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[02:07:59]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[02:07:59]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[02:07:59]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[02:07:59]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[02:07:59]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[02:07:59]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[02:07:59]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[02:08:00]: Serializing world: session/717B6D9B28530E77/0000000487
+[02:08:05]: Server Paused	
+[02:08:57]: [Steam] SendUserDisconnect for '76561199024926747'
+[02:08:57]: Connection lost to 120.171.47.61|1 <9113970401773839829>
+[02:08:57]: [Shard] (KU_0j0lUYAn) disconnected from [SHDMASTER](1)
+[02:08:58]: Serializing user: session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000488
+[02:09:10]: [P2P] Connection failed for '76561199024926747'
+[02:10:11]: CURL ERROR: (lobby.klei.com) [28]Operation too slow. Less than 5 bytes/sec transferred the last 60 seconds
+[02:10:11]: Failed to send server broadcast message
+[02:10:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:10:12]: Failed to send server broadcast message
+[02:10:36]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:10:36]: Failed to send server broadcast message
+[02:11:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:11:02]: Failed to send server broadcast message
+[02:11:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:11:27]: Failed to send server broadcast message
+[02:11:51]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:11:52]: Failed to send server broadcast message
+[02:12:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:12:17]: Failed to send server broadcast message
+[02:12:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:12:42]: Failed to send server broadcast message
+[02:13:06]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:13:06]: Failed to send server broadcast message
+[02:13:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:13:32]: Failed to send server broadcast message
+[02:13:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:13:57]: Failed to send server broadcast message
+[02:14:21]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:14:21]: Failed to send server broadcast message
+[02:14:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:14:47]: Failed to send server broadcast message
+[02:15:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:15:12]: Failed to send server broadcast message
+[02:15:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:15:37]: Failed to send server broadcast message
+[02:16:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:16:02]: Failed to send server broadcast message
+[02:16:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:16:27]: Failed to send server broadcast message
+[02:16:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:16:52]: Failed to send server broadcast message
+[02:17:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:17:17]: Failed to send server broadcast message
+[02:17:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:17:42]: Failed to send server broadcast message
+[02:18:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:18:07]: Failed to send server broadcast message
+[02:18:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:18:32]: Failed to send server broadcast message
+[02:18:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:18:57]: Failed to send server broadcast message
+[02:18:57]: [P2P] Session timed out for '76561199024926747'
+[02:18:57]: [P2P] Remove session: 120.171.47.61|1 '76561199024926747'
+[02:19:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:19:22]: Failed to send server broadcast message
+[02:19:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:19:47]: Failed to send server broadcast message
+[02:20:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:20:12]: Failed to send server broadcast message
+[02:20:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:20:37]: Failed to send server broadcast message
+[02:21:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:21:02]: Failed to send server broadcast message
+[02:21:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:21:27]: Failed to send server broadcast message
+[02:21:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:21:52]: Failed to send server broadcast message
+[02:22:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:22:17]: Failed to send server broadcast message
+[02:22:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:22:42]: Failed to send server broadcast message
+[02:23:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:23:07]: Failed to send server broadcast message
+[02:23:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:23:32]: Failed to send server broadcast message
+[02:23:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:23:57]: Failed to send server broadcast message
+[02:24:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:24:22]: Failed to send server broadcast message
+[02:24:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:24:47]: Failed to send server broadcast message
+[02:25:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:25:12]: Failed to send server broadcast message
+[02:25:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:25:37]: Failed to send server broadcast message
+[02:26:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:26:02]: Failed to send server broadcast message
+[02:26:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:26:27]: Failed to send server broadcast message
+[02:26:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:26:52]: Failed to send server broadcast message
+[02:27:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:27:17]: Failed to send server broadcast message
+[02:27:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:27:42]: Failed to send server broadcast message
+[02:28:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:28:07]: Failed to send server broadcast message
+[02:28:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:28:32]: Failed to send server broadcast message
+[02:28:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:28:57]: Failed to send server broadcast message
+[02:29:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:29:22]: Failed to send server broadcast message
+[02:29:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:29:47]: Failed to send server broadcast message
+[02:30:06]: CURL ERROR: (login.kleientertainment.com) [6]Could not resolve host: login.kleientertainment.com
+[02:30:06]: [0] Account Failed (6): ""
+[02:30:06]: [Warning] Empty error code received, dumping response:
+[02:30:06]: 
+[02:30:06]: [IPC] Signal 'DST_Master_ErrStartup' opened  #0000000000000ADC
+[02:30:06]: [IPC] Sending signal... #0000000000000ADC
+[02:30:06]: [Connect] PendingConnection::Reset(true)
+[02:30:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:30:12]: Failed to send server broadcast message
+[02:30:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:30:37]: Failed to send server broadcast message
+[02:31:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:31:02]: Failed to send server broadcast message
+[02:31:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:31:27]: Failed to send server broadcast message
+[02:31:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:31:52]: Failed to send server broadcast message
+[02:32:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:32:17]: Failed to send server broadcast message
+[02:32:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:32:42]: Failed to send server broadcast message
+[02:33:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:33:07]: Failed to send server broadcast message
+[02:33:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:33:32]: Failed to send server broadcast message
+[02:33:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:33:57]: Failed to send server broadcast message
+[02:34:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:34:22]: Failed to send server broadcast message
+[02:34:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:34:47]: Failed to send server broadcast message
+[02:35:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:35:12]: Failed to send server broadcast message
+[02:35:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:35:37]: Failed to send server broadcast message
+[02:36:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:36:02]: Failed to send server broadcast message
+[02:36:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:36:27]: Failed to send server broadcast message
+[02:36:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:36:52]: Failed to send server broadcast message
+[02:37:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:37:17]: Failed to send server broadcast message
+[02:37:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:37:42]: Failed to send server broadcast message
+[02:38:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:38:07]: Failed to send server broadcast message
+[02:38:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:38:32]: Failed to send server broadcast message
+[02:38:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:38:57]: Failed to send server broadcast message
+[02:39:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:39:22]: Failed to send server broadcast message
+[02:39:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:39:47]: Failed to send server broadcast message
+[02:40:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:40:12]: Failed to send server broadcast message
+[02:40:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:40:37]: Failed to send server broadcast message
+[02:41:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:41:02]: Failed to send server broadcast message
+[02:41:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:41:27]: Failed to send server broadcast message
+[02:41:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:41:52]: Failed to send server broadcast message
+[02:42:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:42:17]: Failed to send server broadcast message
+[02:42:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:42:42]: Failed to send server broadcast message
+[02:43:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:43:07]: Failed to send server broadcast message
+[02:43:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:43:32]: Failed to send server broadcast message
+[02:43:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:43:57]: Failed to send server broadcast message
+[02:44:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:44:22]: Failed to send server broadcast message
+[02:44:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:44:47]: Failed to send server broadcast message
+[02:45:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:45:12]: Failed to send server broadcast message
+[02:45:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:45:37]: Failed to send server broadcast message
+[02:46:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:46:02]: Failed to send server broadcast message
+[02:46:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:46:27]: Failed to send server broadcast message
+[02:46:52]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:46:52]: Failed to send server broadcast message
+[02:47:17]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:47:17]: Failed to send server broadcast message
+[02:47:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:47:42]: Failed to send server broadcast message
+[02:48:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:48:07]: Failed to send server broadcast message
+[02:48:32]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:48:32]: Failed to send server broadcast message
+[02:48:57]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:48:57]: Failed to send server broadcast message
+[02:49:22]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:49:22]: Failed to send server broadcast message
+[02:49:47]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:49:47]: Failed to send server broadcast message
+[02:50:12]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:50:12]: Failed to send server broadcast message
+[02:50:37]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:50:37]: Failed to send server broadcast message
+[02:51:02]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:51:02]: Failed to send server broadcast message
+[02:51:27]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:51:27]: Failed to send server broadcast message
+[02:51:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:51:53]: Failed to send server broadcast message
+[02:52:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:52:18]: Failed to send server broadcast message
+[02:52:42]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:52:42]: Failed to send server broadcast message
+[02:53:07]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:53:07]: Failed to send server broadcast message
+[02:53:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:53:33]: Failed to send server broadcast message
+[02:53:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:53:58]: Failed to send server broadcast message
+[02:54:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:54:23]: Failed to send server broadcast message
+[02:54:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:54:48]: Failed to send server broadcast message
+[02:55:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:55:13]: Failed to send server broadcast message
+[02:55:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:55:38]: Failed to send server broadcast message
+[02:56:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:56:03]: Failed to send server broadcast message
+[02:56:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:56:28]: Failed to send server broadcast message
+[02:56:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:56:53]: Failed to send server broadcast message
+[02:57:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:57:18]: Failed to send server broadcast message
+[02:57:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:57:43]: Failed to send server broadcast message
+[02:58:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:58:08]: Failed to send server broadcast message
+[02:58:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:58:33]: Failed to send server broadcast message
+[02:58:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:58:58]: Failed to send server broadcast message
+[02:59:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:59:23]: Failed to send server broadcast message
+[02:59:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[02:59:48]: Failed to send server broadcast message
+[03:00:06]: CURL ERROR: (login.kleientertainment.com) [6]Could not resolve host: login.kleientertainment.com
+[03:00:06]: [0] Account Failed (6): ""
+[03:00:06]: [Warning] Empty error code received, dumping response:
+[03:00:06]: 
+[03:00:06]: [IPC] Sending signal... #0000000000000ADC
+[03:00:06]: [Connect] PendingConnection::Reset(true)
+[03:00:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:00:13]: Failed to send server broadcast message
+[03:00:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:00:38]: Failed to send server broadcast message
+[03:01:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:01:03]: Failed to send server broadcast message
+[03:01:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:01:28]: Failed to send server broadcast message
+[03:01:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:01:53]: Failed to send server broadcast message
+[03:02:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:02:18]: Failed to send server broadcast message
+[03:02:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:02:43]: Failed to send server broadcast message
+[03:03:08]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:03:08]: Failed to send server broadcast message
+[03:03:33]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:03:33]: Failed to send server broadcast message
+[03:03:58]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:03:58]: Failed to send server broadcast message
+[03:04:23]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:04:23]: Failed to send server broadcast message
+[03:04:48]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:04:48]: Failed to send server broadcast message
+[03:05:13]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:05:13]: Failed to send server broadcast message
+[03:05:38]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:05:38]: Failed to send server broadcast message
+[03:06:03]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:06:03]: Failed to send server broadcast message
+[03:06:28]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:06:28]: Failed to send server broadcast message
+[03:06:53]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:06:53]: Failed to send server broadcast message
+[03:07:18]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:07:18]: Failed to send server broadcast message
+[03:07:43]: CURL ERROR: (lobby.klei.com) [6]Could not resolve host: lobby.klei.com
+[03:07:43]: Failed to send server broadcast message
+[03:07:58]: [Error] Master Server Broadcast Error: AUTH_ERROR_E_EXPIRED_TOKEN
+[03:07:58]: Fatal authentication error, stopping broadcasting thread
+[03:07:58]: Your game will be unjoinable by internet users
+[03:08:16]: [Steam] SendUserDisconnect for '76561198997838566'
+[03:08:16]: [Shard] (KU_h4BrFL4H) disconnected from [SHDMASTER](1)
+[03:08:16]: Server Unpaused	
+[03:08:17]: [IPC] Received shutdown signal.
+[03:08:17]: Available disk space for save files: 100151 MB
+[03:08:17]: Serializing user: session/717B6D9B28530E77/A7LC8BQJQK8H/0000000488
+[03:08:17]: Missing reference:	129783 - powder_monkey	->	129784	129784 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129783 - powder_monkey	->	129786	129786 - twigs(LIMBO)	
+[03:08:17]: Missing reference:	129783 - powder_monkey	->	129788	129788 - spoiled_food(LIMBO)	
+[03:08:17]: Missing reference:	129783 - powder_monkey	->	129790	129790 - oar(LIMBO)	
+[03:08:17]: Missing reference:	129783 - powder_monkey	->	129792	129792 - cutgrass(LIMBO)	
+[03:08:17]: Missing reference:	129783 - powder_monkey	->	129794	129794 - torch(LIMBO)	
+[03:08:17]: Missing reference:	129801 - powder_monkey	->	129802	129802 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129806 - powder_monkey	->	129807	129807 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129806 - powder_monkey	->	129809	129809 - twigs(LIMBO)	
+[03:08:17]: Missing reference:	129806 - powder_monkey	->	129811	129811 - spoiled_food(LIMBO)	
+[03:08:17]: Missing reference:	129806 - powder_monkey	->	129813	129813 - carnival_gametoken(LIMBO)	
+[03:08:17]: Missing reference:	129820 - powder_monkey	->	129821	129821 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129820 - powder_monkey	->	129823	129823 - twigs(LIMBO)	
+[03:08:17]: Missing reference:	129820 - powder_monkey	->	129825	129825 - spoiled_food(LIMBO)	
+[03:08:17]: Missing reference:	129835 - powder_monkey	->	129836	129836 - goldnugget(LIMBO)	
+[03:08:17]: Missing reference:	129835 - powder_monkey	->	129838	129838 - dug_monkeytail(LIMBO)	
+[03:08:17]: Missing reference:	129835 - powder_monkey	->	129840	129840 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129835 - powder_monkey	->	129842	129842 - dug_bananabush(LIMBO)	
+[03:08:17]: Missing reference:	129846 - powder_monkey	->	129847	129847 - goldnugget(LIMBO)	
+[03:08:17]: Missing reference:	129846 - powder_monkey	->	129849	129849 - palmcone_seed(LIMBO)	
+[03:08:17]: Missing reference:	129846 - powder_monkey	->	129851	129851 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129846 - powder_monkey	->	129853	129853 - twigs(LIMBO)	
+[03:08:17]: Missing reference:	129846 - powder_monkey	->	129855	129855 - spoiled_food(LIMBO)	
+[03:08:17]: Missing reference:	129846 - powder_monkey	->	129857	129857 - firestaff(LIMBO)	
+[03:08:17]: Missing reference:	129846 - powder_monkey	->	129859	129859 - log(LIMBO)	
+[03:08:17]: Missing reference:	129865 - powder_monkey	->	129866	129866 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129873 - powder_monkey	->	129874	129874 - ash(LIMBO)	
+[03:08:17]: Missing reference:	129873 - powder_monkey	->	129876	129876 - messagebottleempty(LIMBO)	
+[03:08:17]: Missing reference:	129873 - powder_monkey	->	129878	129878 - palmcone_seed(LIMBO)	
+[03:08:17]: Missing reference:	129873 - powder_monkey	->	129880	129880 - rocks(LIMBO)	
+[03:08:17]: Missing reference:	129873 - powder_monkey	->	129882	129882 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129873 - powder_monkey	->	129884	129884 - dug_bananabush(LIMBO)	
+[03:08:17]: Missing reference:	129873 - powder_monkey	->	129886	129886 - twigs(LIMBO)	
+[03:08:17]: Missing reference:	129873 - powder_monkey	->	129888	129888 - spoiled_food(LIMBO)	
+[03:08:17]: Missing reference:	129895 - powder_monkey	->	129896	129896 - dug_bananabush(LIMBO)	
+[03:08:17]: Missing reference:	129895 - powder_monkey	->	129898	129898 - cutgrass(LIMBO)	
+[03:08:17]: Missing reference:	129895 - powder_monkey	->	129900	129900 - twigs(LIMBO)	
+[03:08:17]: Missing reference:	129895 - powder_monkey	->	129902	129902 - rocks(LIMBO)	
+[03:08:17]: Missing reference:	129895 - powder_monkey	->	129904	129904 - palmcone_seed(LIMBO)	
+[03:08:17]: Missing reference:	129895 - powder_monkey	->	129906	129906 - dug_monkeytail(LIMBO)	
+[03:08:17]: Missing reference:	129895 - powder_monkey	->	129908	129908 - ash(LIMBO)	
+[03:08:17]: Missing reference:	129910 - powder_monkey	->	129911	129911 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	129910 - powder_monkey	->	129913	129913 - cutreeds(LIMBO)	
+[03:08:17]: Missing reference:	129910 - powder_monkey	->	129915	129915 - twigs(LIMBO)	
+[03:08:17]: Missing reference:	129910 - powder_monkey	->	129917	129917 - palmcone_seed(LIMBO)	
+[03:08:17]: Missing reference:	129924 - powder_monkey	->	129925	129925 - rocks(LIMBO)	
+[03:08:17]: Missing reference:	129924 - powder_monkey	->	129927	129927 - twigs(LIMBO)	
+[03:08:17]: Missing reference:	129924 - powder_monkey	->	129929	129929 - palmcone_seed(LIMBO)	
+[03:08:17]: Missing reference:	129924 - powder_monkey	->	129931	129931 - dug_monkeytail(LIMBO)	
+[03:08:17]: Missing reference:	129924 - powder_monkey	->	129933	129933 - spoiled_food(LIMBO)	
+[03:08:17]: Missing reference:	129924 - powder_monkey	->	129935	129935 - lavae_egg_cracked(LIMBO)	
+[03:08:17]: Missing reference:	129924 - powder_monkey	->	129937	129937 - cutgrass(LIMBO)	
+[03:08:17]: Missing reference:	129924 - powder_monkey	->	129939	129939 - carnival_prizeticket(LIMBO)	
+[03:08:17]: Missing reference:	120357 - beef_bell	->	120359	120359 - beefalo	
+[03:08:18]: Serializing world: session/717B6D9B28530E77/0000000488
+[03:08:18]: Truncating to snapshot #488...
+[03:08:18]:  - session/717B6D9B28530E77/0000000466
+[03:08:18]:  - session/717B6D9B28530E77/0000000467
+[03:08:18]:  - session/717B6D9B28530E77/0000000468
+[03:08:18]:  - session/717B6D9B28530E77/0000000469
+[03:08:18]:  - session/717B6D9B28530E77/0000000470
+[03:08:18]:  - session/717B6D9B28530E77/0000000471
+[03:08:18]:  - session/717B6D9B28530E77/0000000472
+[03:08:18]:  - session/717B6D9B28530E77/0000000473
+[03:08:18]:  - session/717B6D9B28530E77/0000000474
+[03:08:18]:  - session/717B6D9B28530E77/0000000475
+[03:08:18]:  - session/717B6D9B28530E77/0000000476
+[03:08:18]:  - session/717B6D9B28530E77/0000000477
+[03:08:18]:  - session/717B6D9B28530E77/0000000478
+[03:08:18]:  - session/717B6D9B28530E77/0000000479
+[03:08:18]:  - session/717B6D9B28530E77/0000000480
+[03:08:18]:  - session/717B6D9B28530E77/0000000481
+[03:08:18]:  - session/717B6D9B28530E77/0000000482
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000482
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000481
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000480
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000479
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000478
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000477
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000476
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000475
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000474
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000473
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000472
+[03:08:18]:  - session/717B6D9B28530E77/A7G2Q0NNK8LH/0000000464
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000482
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000481
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000480
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000479
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000478
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000477
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000476
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000475
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000474
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000473
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000472
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000471
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000470
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000468
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000467
+[03:08:18]:  - session/717B6D9B28530E77/A7LC8BQJQK8H/0000000466
+[03:08:18]:    45 file(s) removed
+[03:08:18]: Removing server from lobby
+[03:08:18]: [Shard] Stopping shard mode
+[03:08:18]: [Steam] SendUserDisconnect for ''
+[03:08:18]: Collecting garbage...
+[03:08:19]: lua_gc took 0.55 seconds
+[03:08:19]: ~ShardLuaProxy()
+[03:08:19]: ~cEventLeaderboardProxy()
+[03:08:19]: ~ItemServerLuaProxy()
+[03:08:19]: ~InventoryLuaProxy()
+[03:08:19]: ~NetworkLuaProxy()
+[03:08:19]: ~SimLuaProxy()
+[03:08:19]: Cancelling LuaQueryCallback handle [1050]
+[03:08:19]: Cancelling LuaQueryCallback handle [1051]
+[03:08:20]: lua_close took 0.92 seconds
+[03:08:20]: CurlRequestManager::ClientThread::Main() complete
+[03:08:20]: HttpClient2 discarded 0 callbacks.
+[03:08:20]: Shutting down

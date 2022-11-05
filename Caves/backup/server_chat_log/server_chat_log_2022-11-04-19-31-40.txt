@@ -1,0 +1,7 @@
+[00:00:55]: [Join Announcement] Guinyの时光
+[00:03:01]: [Join Announcement] 有点皮的卡丘
+[01:03:48]: [Skin Announcement] 有点皮的卡丘 body_sleepgown_purple_lavender
+[01:09:05]: [Skin Announcement] Guinyの时光 body_buttons_purple_violet
+[02:07:28]: [Skin Announcement] Guinyの时光 hand_waxwell_vampire
+[02:08:57]: [Leave Announcement] 有点皮的卡丘
+[03:08:16]: [Leave Announcement] Guinyの时光

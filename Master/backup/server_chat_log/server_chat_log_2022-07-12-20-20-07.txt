@@ -1,7 +1,0 @@
-[00:01:17]: [Join Announcement] Guinyの时光
-[00:02:15]: [Join Announcement] 有点皮的卡丘
-[00:42:14]: [Skin Announcement] Guinyの时光 wx78_retro
-[01:05:50]: [Skin Announcement] 有点皮的卡丘 feet_wendy_creepy
-[02:02:05]: [Skin Announcement] Guinyの时光 hand_wx78_wrestler
-[02:17:37]: [Leave Announcement] 有点皮的卡丘
-[02:19:07]: [Leave Announcement] Guinyの时光
