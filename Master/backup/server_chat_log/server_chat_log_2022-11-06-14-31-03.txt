@@ -1,0 +1,10 @@
+[00:00:55]: [Join Announcement] Guinyの时光
+[00:01:41]: [Join Announcement] 有点皮的卡丘
+[00:27:11]: [Skin Announcement] 有点皮的卡丘 wilson_beard_pigguard
+[00:42:07]: [Vote Announcement] rollback passed
+[00:50:20]: [Skin Announcement] Guinyの时光 body_wolfgang_walrusp
+[01:14:39]: [Skin Announcement] 有点皮的卡丘 hand_beltedgloves_red_firehound
+[02:02:15]: [Skin Announcement] Guinyの时光 body_polo_pink_hibiscus
+[02:51:28]: [Skin Announcement] 有点皮的卡丘 hand_wickerbottom_lunar
+[03:04:32]: [Leave Announcement] 有点皮的卡丘
+[03:14:21]: [Leave Announcement] Guinyの时光
